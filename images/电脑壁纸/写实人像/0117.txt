@@ -1,0 +1,2 @@
+照片，摄影，真实人像，白皙的皮肤，最佳品质，特写，亚洲绝美少女，20岁，清晨自然光，面部毛孔细腻可见，睫毛浓密卷翘，眼神纯净温柔，唇部自然饱满微张，背景虚化为散发柔光的米色纯色墙面，纯粹，干净，高细节，桌面壁纸
+Photo, photography, realistic portrait, fair skin, best quality, close-up, absolutely beautiful Asian girl, 20 years old, natural morning light, visible delicate skin pores, dense curled eyelashes, pure gentle eyes, naturally plump lips slightly open, blurred soft glowing beige solid wall in background, pure, clean, high detail, desktop wallpaper --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 --no ai-generated texture

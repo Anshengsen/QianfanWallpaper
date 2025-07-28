@@ -1,0 +1,2 @@
+CN：印象派抽象画面，落日余晖隔纹理玻璃，光影朦胧效果，橙色、夜黑与天蓝晕染，柔和天光，垂直画面布局，朦胧而富有诗意，色彩对比鲜明，纹理细节丰富，摄影艺术创作。
+EN：Impressionistic abstract scene, sunset glow through textured glass, blurred light and shadow effect, orange, night black, and sky blue hues, soft celestial light, vertical framing, hazy and poetic, vivid color contrast, rich textural details, photographic art creation. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

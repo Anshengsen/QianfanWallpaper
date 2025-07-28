@@ -1,0 +1,2 @@
+CN：电影级航拍，委内瑞拉安赫尔瀑布，世界最高的瀑布从巨大的平顶山（Tepui）边缘垂直落下，化作漫天水雾，背景是广袤的原始雨林，日出光辉照亮云层，景象壮丽而原始，照片级真实感，4K。
+EN：Cinematic aerial shot, Angel Falls, Venezuela, the world's tallest waterfall plummets vertically from the edge of a massive table-top mountain (Tepui), turning into a vast spray of mist, with the expansive pristine rainforest in the background, sunrise illuminates the clouds, a magnificent and primal scene, photorealistic, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：数字艺术渲染，多面光华，虚无境界。绝对的黑暗深处，一束集束光芒穿越，被漂浮的抽象棱镜分解，向外层空间绽放出交错的彩虹。虹彩般的色泽柔和弥散，光线外围带有一层薄雾效果，仿佛星际尘埃中的奇幻景象。超广角，数字感，震撼，8K。
+EN：Digital art rendering, multifaceted brilliance, realm of nothingness. In the absolute depths of darkness, a focused beam of light traverses, broken down by floating abstract prisms, blooming into interlaced rainbows towards outer space. Iridescent hues softly diffuse, with a subtle misty effect surrounding the light, like a fantastical scene within interstellar dust. Ultra wide angle, digital feel, stunning, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

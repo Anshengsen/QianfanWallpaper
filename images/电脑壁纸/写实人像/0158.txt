@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲女性，长长的黑发遮住一只眼睛，几何形状的眼线，穿着有结构感的黑色西装外套，头微微倾斜，黑色背景，柔和的顶光聚焦在脸部，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian woman with long black hair covering one eye and geometric eyeliner, wearing a structured black blazer, head slightly tilted, black background, soft top light focusing on the face, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

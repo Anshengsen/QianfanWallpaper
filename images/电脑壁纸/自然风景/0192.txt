@@ -1,0 +1,2 @@
+CN：电影级航拍，圭亚那凯尔图尔大瀑布，巨大的水流从平顶山边缘单级倾泻而下，落入广袤的原始雨林中，升腾起浓厚的水雾，阳光穿透雾气，景象壮观而震撼，展现出大自然最原始的力量。
+EN：Cinematic aerial shot, Kaieteur Falls, Guyana, a massive single-drop waterfall plunges from the edge of a tabletop mountain into the vast pristine rainforest, raising a thick mist, sunlight pierces the mist, a spectacular and breathtaking scene showcasing nature's most primal power, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：长白山山脉，雪景，壮丽，巍峨，云海，广角镜头，全景构图，冷色调，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD，
+EN：Changbai Mountain Range, snow scene, magnificent, majestic, sea of ​​clouds, wide-angle lens, panoramic composition, cold tones, best quality, 8K, ultra-detailed, ultra-quality, movie-level lighting, real photography, UHD, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

@@ -1,0 +1,2 @@
+CN：云南大理洱海，洱海，苍山，白族文化，田园风光，广角镜头，全景构图，暖色调，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD，
+EN：Yunnan Dali Erhai Lake, Erhai Lake, Cangshan Mountain, Bai culture, rural scenery, wide-angle lens, panoramic composition, warm tones, best quality, 8K, ultra-details, ultra-quality, movie-level lighting, real photography, UHD, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

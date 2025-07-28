@@ -1,0 +1,2 @@
+3D卡通chibi插画，一个可爱的小男孩，穿着橘红色的汉服，吃得小脸红扑扑，头上戴着元宝形状的发饰，他正坐在桌前，捧着一块桂花糕吃得津津有味，3D，C4D，高细节，高清，8K，柔和的自然光，身边有一个小茶壶。
+EN：3d cartoon chibi illustration, a cute little boy, wearing an orange-red hanfu, his face is rosy from eating, wearing a yuanbao-shaped hair accessory on his head, he is sitting at the table, holding a piece of osmanthus cake and eating with relish, 3D, C4D, high detail, HD, 8K, soft natural light, there is a small teapot beside him. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

@@ -1,0 +1,2 @@
+照片，摄影，真实人像，白皙的皮肤，最佳品质，特写，亚洲绝美少女，20岁，面部光线均匀柔和，眼神清澈，瞳孔深邃，嘴角微含笑意，发丝自然蓬松，背景虚化为带有细微颗粒感的纯色幕布，纯粹，唯美，情感，桌面壁纸
+Photo, photography, realistic portrait, fair skin, best quality, close-up, absolutely beautiful Asian girl, 20 years old, even soft facial lighting, clear and profound eyes, lips slightly curved in a smile, naturally voluminous hair, blurred solid colored backdrop with subtle grainy texture, pure, aesthetic, emotional, desktop wallpaper --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

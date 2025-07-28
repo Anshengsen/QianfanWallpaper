@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着火红色的汉服，脸颊红扑扑，头上戴着小巧的凤鸟发饰，她正坐在矮桌前认真地拨弄一张小古琴，3D，C4D，高细节，高清，8K，柔和的自然光，旁边散落着几片枫叶。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a fiery red hanfu, with rosy cheeks, wearing a small phoenix bird hair accessory, she is sitting at a low table and seriously playing a small guqin, 3D, C4D, high detail, HD, 8K, soft natural light, with a few maple leaves scattered nearby. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

@@ -1,0 +1,2 @@
+CN：青海湖，日出，湖光山色，碧波荡漾，天空，广角镜头，全景构图，暖色调，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD 
+EN：Qinghai Lake, sunrise, lake and mountain scenery, rippling blue waves, sky, wide-angle lens, panoramic composition, warm colors, best quality, 8K, ultra-details, ultra-quality, movie-level lighting, real photography, UHD --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

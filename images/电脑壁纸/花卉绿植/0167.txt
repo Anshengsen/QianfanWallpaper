@@ -1,0 +1,2 @@
+CN：水生画面，微距特写，纯白睡莲，墨绿荷叶，静谧水面，柔和光照，冷冽色调，竖向构图，自然生机，宁静致远，细节淋漓。
+EN：Aquatic tableau, macro close-up, pure white water lilies, dark green lily pads, tranquil water surface, gentle illumination, cool color palette, vertical composition, natural vitality, profound serenity, exquisite detail. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

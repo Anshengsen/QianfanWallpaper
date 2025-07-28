@@ -1,0 +1,2 @@
+CN：一个东方美少女，亚洲面容，极其详细的面部，上半身，精致的五官，精致的妆容，长发，面对镜头，居中，柔和光，高质量，高细节，
+EN：A beautiful oriental girl, Asian face, extremely detailed face, upper body, exquisite facial features, exquisite makeup, long hair, facing the camera, centered, soft light, high quality, high detail, --q 1 --s 100 --ar 16:9 --niji 5 --style 13LiAxiQOOYonknQOx97HzEwcEUrKSVIpfzI6F

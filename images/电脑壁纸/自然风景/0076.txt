@@ -1,0 +1,2 @@
+CN：秋叶特写，日本枫树，金黄色，橙红色，阳光照射，光斑，虚化背景，暖色调，高饱和度，自然光，特写镜头，浅景深，细节丰富，高分辨率，8K，摄影
+EN：Autumn leaves close-up, Japanese maple, golden yellow, orange red, sunlight, light spots, blurred background, warm tones, high saturation, natural light, close-up, shallow depth of field, rich details, high resolution, 8K, photography --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

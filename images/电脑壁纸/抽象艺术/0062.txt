@@ -1,0 +1,2 @@
+CN：抽象概念绘画，折射光束，无边虚空。纯粹的暗物质背景之中，一束集中的能量光线穿过，被半透明的几何形状分裂，向四面八方扩散出斑斓的色彩。七彩斑斓的色带流畅过渡，光线边缘呈现柔和的扩散效果，仿佛维度之间的神秘通道。极致细节，超现实，史诗级，8K。
+EN：Abstract conceptual painting, refracted beams, boundless void. Within a pure dark matter background, a focused energy beam passes through, split by translucent geometric shapes, spreading vibrant colors in all directions. Multicolored bands transition smoothly, with a soft diffusion effect at the edges of the light, as if a mysterious passage between dimensions. Extreme detail, surreal, epic, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,3 @@
+专业摄影，古老红杉森林，美国加州，高耸入云的巨型红杉树，树干上覆盖着厚厚的苔藓，地面铺满松软针叶，晨雾缭绕，空气清新，原始，寂静，自然，桌面壁纸
+Professional photography, ancient redwood forest, California USA, towering giant redwood trees reaching into clouds, thick moss covering tree trunks, soft pine needles covering forest floor,
+morning mist, fresh air, primal, serene, natural, desktop wallpaper --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

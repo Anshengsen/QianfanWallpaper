@@ -1,0 +1,2 @@
+CN：航拍视角，鸟瞰图，一个人，站在白色沙滩上，走向清澈的浅蓝色海水，深蓝色海水，对比鲜明，色彩丰富，光线充足，超广角，高分辨率，细节丰富。
+EN：Aerial perspective, bird's eye view, a person, standing on a white sand beach, walking towards the clear light blue water, deep blue sea water, sharp contrast, rich colors, plenty of light, ultra wide angle, high resolution, rich details. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

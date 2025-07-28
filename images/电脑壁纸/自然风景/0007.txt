@@ -1,0 +1,2 @@
+CN：阿尔卑斯山脉，雪山，山顶，无人机视角，日落时分，唯美，白雪，超清品质，超高细节，8K，专业摄影，
+EN：Alps, snow-capped mountains, mountain tops, drone view, sunset, beautiful, white snow, ultra-clear quality, ultra-high details, 8K, professional photography, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

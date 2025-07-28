@@ -1,0 +1,2 @@
+CN：史诗风景摄影，长白山天池，深邃湛蓝的火山湖水平静如镜，周围环绕着崎岖的火山岩壁，部分山峰仍有积雪，一缕薄雾漂浮在湖面上，营造出一种原始、壮丽而又神秘的氛围，超广角航拍。
+EN：Epic landscape photography, Heaven Lake of Changbai Mountain, the deep, azure volcanic lake is calm as a mirror, surrounded by rugged caldera walls, some peaks still covered in snow, a wisp of mist drifts over the water's surface, creating a pristine, magnificent, and mysterious atmosphere, ultra-wide aerial shot, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

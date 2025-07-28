@@ -1,0 +1,2 @@
+CN：壁纸，动漫美少女，身处一间充满艺术气息的画室，斜射的阳光在空气中产生迷人的丁达尔光影，精致的五官与妆容，暖杏色腮红，微光的琥珀色眼影，枫叶红唇，光影写实风格，浅白色和淡琥珀色的搭配，聚焦特写，极美，最佳品质，皮肤细腻有光泽。
+EN：Wallpaper, anime beautiful girl, in an art-filled studio, the oblique sunlight creates charming Tyndall light and shadow in the air, exquisite facial features and makeup, warm apricot blush, shimmering amber eyeshadow, maple red lips, light and shadow realistic style, a combination of light white and light amber, focusing on a close-up, extremely beautiful, best quality, delicate and radiant skin, --q 1 --s 100 --ar 16:9 --niji 6

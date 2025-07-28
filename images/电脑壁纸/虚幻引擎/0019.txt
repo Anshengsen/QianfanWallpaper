@@ -1,0 +1,2 @@
+CN：中国风美少女，写实，绝美的容颜，温柔，电影级灯光，水绿纱裙，金线流刻，写实幻想，中国风，幻想，写实，最佳品质，4k，
+EN：Chinese style beautiful girl, realistic, beautiful face, gentle, movie-level lighting, water green gauze skirt, gold thread engraving, realistic fantasy, Chinese style, fantasy, realistic, best quality, 4k, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

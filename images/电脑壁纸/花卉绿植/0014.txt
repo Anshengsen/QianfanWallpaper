@@ -1,0 +1,2 @@
+CN：盛开的莲花，粉红色，花瓣渐变，阳光透过花瓣，高饱和度，绿色莲叶，深色背景，特写，中心构图，花瓣纹理细节，长茎，水生植物，自然光，柔和阴影，高清晰度，8K，超细节
+EN：Blooming lotus, pink, petal gradient, sunlight through petals, high saturation, green lotus leaves, dark background, close-up, center composition, petal texture details, long stem, aquatic plant, natural light, soft shadows, high definition, 8K, ultra detail --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

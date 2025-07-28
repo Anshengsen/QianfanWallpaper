@@ -1,0 +1,2 @@
+CN：电影级广角摄影，从高处俯瞰秘鲁库斯科古城，标志性的红色瓦片屋顶和古老的广场，背景是雄伟连绵的安第斯山脉，展现了印加帝国与西班牙殖民风格的独特融合，天空湛蓝，细节丰富，超高清画质。
+EN：Cinematic wide-angle photography, overlooking the ancient city of Cusco, Peru from a high point, the iconic red-tiled roofs and the old square, with the majestic Andes mountains in the background, showcasing the unique fusion of the Inca Empire and Spanish colonial styles, clear blue sky, rich in detail, ultra-HD quality, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+品牌形象概念图，暗黑科技风格，蓝色高光，水滴边缘清晰，深黑色背景，局部有深蓝色光晕，科技感，未来感，高分辨率，高质量，8K。
+Brand image concept map, dark technology style, blue highlights, clear edges of water droplets, deep black background, dark blue halos in some parts, sense of technology, futuristic, high resolution, high quality, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

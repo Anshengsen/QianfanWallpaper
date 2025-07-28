@@ -1,0 +1,2 @@
+CN：电影级航拍，大理古城全景，背后是雄伟的苍山，远处是宁静的洱海，傍晚的金色阳光洒在古城的青瓦屋顶上，天空色彩绚丽，画面开阔而宁静，超高清，照片级真实感。
+EN：Cinematic aerial shot, panoramic view of Dali Ancient City, with the majestic Cangshan Mountains in the background and the tranquil Erhai Lake in the distance, the golden evening sun shines on the gray tiled roofs of the ancient city, the sky is brilliantly colored, the scene is open and serene, ultra HD, photorealistic, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

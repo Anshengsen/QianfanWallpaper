@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着鹅黄色的汉服，脸颊微红，戴着可爱的蝴蝶发饰，她坐在小桌前，双手捧着一个小茶杯，好奇地吹着热气，3D，C4D，高细节，高清，8K，柔和的自然光，桌上有一束小雏菊。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a goose-yellow hanfu, with slightly red cheeks, wearing a cute butterfly hair accessory, she is sitting at a small table, holding a small teacup with both hands, blowing on the steam curiously, 3D, C4D, high detail, HD, 8K, soft natural light, there is a small bouquet of daisies on the table. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

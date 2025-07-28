@@ -1,0 +1,2 @@
+CN：湖面景色，细节特写，洁白睡莲，深绿荷叶，平静湖水，轻柔光线，冰冷色系，纵向构图，原始生态，安详氛围，纹理丰富。
+EN：Lakeside view, detailed close-up, pristine white water lilies, deep green lotus leaves, calm lake water, soft lighting, icy color scheme, vertical composition, raw ecology, serene atmosphere, rich textures. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

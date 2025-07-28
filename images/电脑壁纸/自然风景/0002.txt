@@ -1,0 +1,2 @@
+CN：8K摄影，极光，极简主义，超高清分辨，真实摄影，最佳品质，
+EN：8K photography, aurora, minimalism, ultra-high-definition resolution, real photography, best quality, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

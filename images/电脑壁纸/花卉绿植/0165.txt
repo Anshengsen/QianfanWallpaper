@@ -1,0 +1,2 @@
+CN：池塘场景，近距离观察，皎白莲花，浓绿水生叶片，纹丝不动水面，弥漫柔光，清冷调性，长高构图，本真自然，祥和安宁，细节饱满。
+EN：Pond scene, close-up observation, brilliant white lotus flowers, dark green aquatic leaves, motionless water surface, diffused soft light, cool tone, tall composition, authentic nature, peaceful serenity, full details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

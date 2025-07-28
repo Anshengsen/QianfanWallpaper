@@ -1,0 +1,2 @@
+CN：漓江上的竹筏，背景是桂林典型的喀斯特地貌山峰，薄雾笼罩着河面，夕阳的余晖染红了天空和水面，宁静而富有诗意，电影级画面，4K分辨率，写实风格。
+EN：A bamboo raft on the Li River, with the typical karst peaks of Guilin in the background, a thin mist covers the river, the afterglow of the sunset reddens the sky and the water, serene and poetic, cinematic quality, 4K resolution, realistic style, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

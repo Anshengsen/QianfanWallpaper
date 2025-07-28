@@ -1,0 +1,2 @@
+CN：电影级全景摄影，厄瓜多尔基多老城，黄昏时分，城市灯火初上，殖民时期的教堂被点亮，背景是雄伟的安第斯山脉火山，天空呈现出绚丽的色彩，史诗般的景观，超高分辨率。
+EN：Cinematic panoramic photography, Historic Centre of Quito, Ecuador, at dusk, as city lights begin to turn on, colonial churches are illuminated, with the majestic Andean volcanoes in the background, the sky shows brilliant colors, epic landscape, ultra-high resolution, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

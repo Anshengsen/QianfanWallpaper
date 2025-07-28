@@ -1,0 +1,2 @@
+CN：概念主义，扭曲玻璃中的日暮，光影虚化，橘黑蓝三色交织，天然光线，纵向画幅，迷离意境，色彩碰撞，精细肌理，视觉诗篇摄影。
+EN：Conceptualism, twilight seen through distorted glass, blurred light and shadow, orange, black, and blue intertwined, natural light, vertical format, hazy artistic conception, color collision, fine texture, visual poetry photography. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

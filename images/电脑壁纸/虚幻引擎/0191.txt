@@ -1,0 +1,2 @@
+CN：雅致的古代中国书院女弟子，倚靠在书阁的雕花木窗旁，蓦然回首，展现出绝美的侧颜轮廓，虚幻引擎5渲染，写实风格，近景特写，光线穿过窗格形成迷人的丁达尔效应，温暖的光线勾勒出柔和的轮廓，顶级画质，温馨的色调。
+EN：Elegant ancient Chinese female academy disciple, leaning against the carved wooden window of a library, suddenly looks back, revealing a stunning profile silhouette, rendered in Unreal Engine 5, realistic style, close-up shot, light passes through the window lattice creating a charming Tyndall effect, warm light outlines a soft contour, top-tier quality, cozy tones, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

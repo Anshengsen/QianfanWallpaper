@@ -1,0 +1,2 @@
+CN：航拍视角，黑沙滩，一艘小船，极简主义，高对比度，电影感，干净，锐利，最佳质量，8k。
+EN：Aerial view, black sand beach, a small boat, minimalism, high contrast, cinematic, clean, sharp, best quality, 8k. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

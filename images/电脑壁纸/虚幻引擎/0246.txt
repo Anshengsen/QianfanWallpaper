@@ -1,0 +1,2 @@
+CN：肖像照片，一位亚裔面孔少女，雾蓝色长卷发，神秘白色蒙眼，饱满红唇，素雅白色内搭，精致匀称，细致颈部链坠，漫射柔和光，电影美学，情绪人像，中景人像，柔和淡紫色背景。
+EN：Portrait photo, an Asian-faced girl, misty blue long curly hair, mysterious white blindfold, full red lips, simple elegant white inner wear, delicate and well-proportioned, fine neck pendant, diffused soft light, cinematic aesthetic, emotional portrait, medium shot portrait, soft light purple background. --q 5 --s 100 --ar 16:9 --niji 6 --profile v21i75s

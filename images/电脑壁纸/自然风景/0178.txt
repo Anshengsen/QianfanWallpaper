@@ -1,0 +1,2 @@
+CN：野生动物摄影杰作，成都大熊猫基地，一只憨态可掬的大熊猫悠闲地坐在茂密的竹林里，柔和的阳光透过竹叶缝隙洒在它身上，形成美丽的光斑，背景虚化，氛围温馨宁静，极致细节。
+EN：Wildlife photography masterpiece, Chengdu Panda Base, a charmingly naive giant panda sits leisurely in a dense bamboo forest, soft sunlight filters through the bamboo leaves, casting beautiful light spots on its body, blurred background, warm and tranquil atmosphere, extreme detail, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

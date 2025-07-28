@@ -1,0 +1,2 @@
+专业摄影，花卉肖像，一朵孤挺花，花瓣宽大，色彩饱和，花蕊细节清晰，背景虚化为均匀的深色，突出主体，桌面壁纸，4K，UHD
+Professional photography, floral portrait, an amaryllis flower, large petals, saturated colors, clear stamen details, blurred uniform dark background, highlighting the subject, desktop wallpaper, 4K, UHD --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

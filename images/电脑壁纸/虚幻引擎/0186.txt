@@ -1,0 +1,2 @@
+CN：霓虹朋克，星辰精灵，精致的面容，闪耀的妆容，双眸如同遥远的星系般璀璨，电影级光照，置身于星尘云雾之中，周围环绕着闪烁的星辰碎片，空灵感，幻想色彩，写实风格，最佳画质，景深。
+EN：Neon punk, star elf, delicate face, shiny makeup, eyes as bright as distant galaxies, movie-level lighting, in the mist of stardust, surrounded by twinkling star fragments, ethereal feeling, fantasy color, realistic style, best picture quality, depth of field, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

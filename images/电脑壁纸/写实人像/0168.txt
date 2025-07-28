@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，长发垂下遮住了部分脸庞，只露出一只锐利的眼睛，穿着黑色立领大衣，身体前倾，黑色背景，明暗强烈对比的伦勃朗光，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with long hair hanging down covering part of his face, revealing only one sharp eye, wearing a black high-collared coat, leaning forward, black background, strong contrast Rembrandt lighting, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

@@ -1,0 +1,2 @@
+CN：华美的古代中国宫廷女画师在画室之内，她稍作停顿，回望向窗外，侧脸精致，神情专注，虚幻引擎5打造，照片级真实感，特写镜头，清晨的阳光洒入，形成温柔的丁达尔光束，阴影细腻，最佳画质，柔和的暖色调。
+EN：A magnificent ancient Chinese female court painter is inside her studio. She pauses for a moment, looking back towards the window, her profile is delicate and her expression is focused, created in Unreal Engine 5, photorealistic, close-up shot, morning sunlight streams in, forming gentle Tyndall beams, delicate shadows, best quality, soft warm tones, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

@@ -1,0 +1,2 @@
+CN：超写实动漫渲染，剧情CG女性刺客，厚重色彩堆叠，阴郁晦暗基调，深红与纯黑对撞，机械玫瑰装饰，锋刃秘钥，背部构图，轻微侧身回望，冷峻聚光，极致纹理，档案级质量，8K。
+EN：Hyper-realistic anime rendering, cinematic CG female assassin, heavy color stacking, gloomy dark undertone, deep red and pure black contrast, mechanical rose adornments, sharp-edged arcane key, back composition, slight side glance back, harsh spotlight, ultimate textural detail, archival quality, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

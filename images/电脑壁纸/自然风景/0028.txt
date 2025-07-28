@@ -1,0 +1,2 @@
+CN：中国长城，山峦，远景，蜿蜒，云雾缭绕，雄伟，壮丽，历史感，最佳品质，8K，超细节，超品质，
+EN：The Great Wall of China, mountains, vistas, winding, misty, majestic, magnificent, historical, best quality, 8K, ultra-detailed, ultra-high quality, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

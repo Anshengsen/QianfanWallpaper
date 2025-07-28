@@ -1,0 +1,3 @@
+照片，摄影，真实人像，白皙的皮肤，最佳品质，全景，亚洲绝美少女，20岁，身着文艺风格的棉麻连衣裙，趴在复古木质沙发上，双腿微抬，脚尖轻晃，手中拿着一根羽毛笔或小画笔，眼神专注而充满想象力，背景是模糊的书架和老物件，慵懒，艺术，桌面壁纸
+Photo, photography, realistic portrait, fair skin, best quality, full body shot, absolutely beautiful Asian girl, 20 years old, wearing an artistic cotton linen dress, lying on a vintage wooden sofa, legs slightly raised, toes gently swaying, holding a quill pen or small paintbrush, eyes focused and imaginative, blurred bookshelf and antique objects in background, languid, artistic, desktop wallpaper --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture
+

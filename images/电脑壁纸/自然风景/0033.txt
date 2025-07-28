@@ -1,0 +1,2 @@
+CN：海边悬崖，岩石峭壁，海浪，星空，银河，长曝光，自然风光，冷色调，广角镜头，高对比度，电影级光照，超高清，8K，细节丰富。
+EN：Seaside cliffs, rocky cliffs, ocean waves, starry sky, Milky Way, long exposure, natural scenery, cold tones, wide-angle lens, high contrast, cinematic lighting, ultra high definition, 8K, rich details. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

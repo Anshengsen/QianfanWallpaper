@@ -1,0 +1,2 @@
+CN：电影空镜头，兵马俑坑，成千上万的兵马俑军队整齐排列，一束神圣的光从上方洞口射入，照亮空气中的尘埃，营造出神秘和庄严的氛围，巨大的规模感，阴影和光线的强烈对比，4K。
+EN：Cinematic empty shot, Terracotta Army pit, thousands of terracotta warriors lined up in neat rows, a divine beam of light streams in from an opening above, illuminating dust motes in the air, creating an atmosphere of mystery and solemnity, immense sense of scale, strong contrast of shadow and light, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

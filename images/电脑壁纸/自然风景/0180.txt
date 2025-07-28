@@ -1,0 +1,2 @@
+CN：电影级航拍，秘鲁马丘比丘，失落的印加古城坐落在安第斯山脉之巅，云雾在山谷中缭绕，日出的第一缕金色光芒照亮古老的石头遗迹，史诗般的景色，4K超高清，照片级真实。
+EN：Cinematic aerial photography, Machu Picchu, Peru, the lost ancient city of the Incas sits on the top of the Andes, clouds and mists surround the valley, the first golden rays of sunrise illuminate the ancient stone ruins, epic scenery, 4K ultra-high definition, photo-level reality, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

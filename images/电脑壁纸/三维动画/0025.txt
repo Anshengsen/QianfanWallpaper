@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着雪白色的绒边汉服，冻得脸颊通红，头上戴着雪花形状的发饰，她正坐在桌子前，堆着一个迷你的小雪人，3D，C4D，高细节，高清，8K，柔和的冬日天光，桌上有一支带雪的松枝。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a snow-white fur-trimmed hanfu, her cheeks are red from the cold, wearing a snowflake-shaped hair accessory, she is sitting at the table, building a mini snowman, 3D, C4D, high detail, HD, 8K, soft winter daylight, there is a snow-covered pine branch on the table. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

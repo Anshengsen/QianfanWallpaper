@@ -1,0 +1,2 @@
+CN：现实增强感动漫风格，AAA游戏魔女角色，厚重油画质感，哥特式暗影，猩红与墨黑渐变，带有荆棘的暗夜玫瑰图案，镶嵌宝石的古老秘钥，背向镜头侧转回眸，电影级氛围灯光，极致精微细节，殿堂级品质，8K。
+EN：Hyper-realistic augmented anime style, AAA game sorceress character, heavy oil painting texture, gothic shadows, crimson and inky black gradient, dark night rose motifs with thorns, ancient jeweled enigmatic key, back to camera with a side-turned gaze, cinematic atmospheric lighting, extremely intricate details, museum-grade quality, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

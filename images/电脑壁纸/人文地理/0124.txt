@@ -1,0 +1,2 @@
+CN：黑白摄影杰作，里约热内卢基督像，从暴风雨的云层中庄严地浮现，神圣的光束穿透云隙照亮雕像，强烈的明暗对比，充满戏剧性和力量感，不朽的，低角度仰拍，胶片颗粒感。
+EN：Black and white photography masterpiece, Christ the Redeemer in Rio de Janeiro, emerging majestically from stormy clouds, a divine beam of light pierces the clouds to illuminate the statue, strong light and shadow contrast, full of drama and power, timeless, low angle shot, film grain, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

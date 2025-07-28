@@ -1,0 +1,2 @@
+CN：纪实风格摄影，哥伦比亚麦德林，从山顶俯瞰，整座城市在山谷中铺开，缆车系统连接着山坡上的社区，傍晚的暖色调光线下，充满了活力和现代感，广角，4K。
+EN：Documentary style photography, Medellin, Colombia, viewed from a hilltop, the entire city spreads out in the valley, the cable car system connects communities on the hillside, under the warm tones of evening light, full of energy and modernity, wide angle, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：史诗级无人机视角，伊瓜苏大瀑布，成百上千的瀑布从悬崖上雷鸣般倾泻而下，汇入河流，巨大的水雾升腾，阳光穿过水雾形成明亮的彩虹，展现了大自然令人敬畏的力量，动态感十足，超高分辨率。
+EN：Epic drone perspective, Iguazu Falls, hundreds of waterfalls cascade down from the cliffs like thunder, merging into the river, huge water mist rises, sunlight passes through the water mist to form a bright rainbow, showing the awe-inspiring power of nature, full of dynamic sense, ultra-high resolution, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

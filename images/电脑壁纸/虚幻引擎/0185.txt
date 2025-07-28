@@ -1,0 +1,2 @@
+CN：赛博神话风格，水晶神使，面部由半透明的水晶构成，眼中闪烁着数据流的光芒，电影级光照，站在古老的数据神殿中，周围是漂浮的几何符文和代码瀑布，神圣感，幻想，照片级真实感，最佳品质，景深。
+EN：Cyber-mythology style, crystal emissary, face is composed of translucent crystal, data streams sparkle in the eyes, movie-level lighting, standing in an ancient data temple, surrounded by floating geometric runes and waterfalls of code, sense of divinity, fantasy, photorealistic, best quality, depth of field, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

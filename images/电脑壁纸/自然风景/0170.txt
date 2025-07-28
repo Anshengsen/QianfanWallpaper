@@ -1,0 +1,2 @@
+CN：鸣沙山月牙泉的魔法之夜，巨大的沙丘环绕着一弯绿洲，清澈的泉水倒映着银河和璀璨的星空，空气宁静而神秘，超现实主义摄影，电影级质感，极度精细的细节。
+EN：A magical night at Mingsha Mountain and Crescent Spring, giant sand dunes surround a crescent oasis, the clear spring water reflects the Milky Way and the brilliant starry sky, the air is tranquil and mysterious, surreal photography, cinematic quality, extremely fine details, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

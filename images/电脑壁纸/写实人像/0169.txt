@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，湿发造型，水珠从发梢滴落，穿着黑色运动上衣，头部快速转动，捕捉瞬间的动态，黑色背景，频闪效果的白色光线，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with a wet hair look, water dripping from the hair tips, wearing a black athletic top, head turning quickly, capturing a momentary dynamic, black background, strobe effect white lighting, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

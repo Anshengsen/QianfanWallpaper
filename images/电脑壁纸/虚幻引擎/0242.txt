@@ -1,0 +1,2 @@
+CN：摄影作品，一位亚洲少女，银蓝渐变长发，纯白眼罩，鲜亮朱唇，纯白简约上衣，匀称身形，颈部纤细链饰，柔和光影，电影级运镜，艺术肖像，半身特写，淡紫色背景。
+EN：Photographic work, an Asian girl, silver-blue gradient long hair, pure white eye mask, bright crimson lips, pure white simple top, well-proportioned figure, delicate neck chain, soft light and shadow, cinematic-level camera movement, artistic portrait, half-body close-up, light purple background. --q 5 --s 100 --ar 16:9 --niji 6 --profile v21i75s

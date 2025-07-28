@@ -1,0 +1,2 @@
+CN：国家地理摄影，黄山顶峰，云海翻滚，奇松怪石，日出的第一缕光线穿透云层，天空之城般的史诗感，光线追踪，超高分辨率，空灵，广角镜头。
+EN：National Geographic photography, the peak of Mount Huang, a roiling sea of clouds, unique pine trees and strange rocks, the first rays of sunrise piercing through the clouds, an epic feeling like a city in the sky, ray tracing, ultra-high resolution, ethereal, wide-angle lens, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

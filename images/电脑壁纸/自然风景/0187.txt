@@ -1,0 +1,2 @@
+CN：国家地理摄影，亚马逊雨林深处，一条巨大的河流在无尽的绿色丛林中蜿蜒，清晨的薄雾像轻纱一样笼罩在树冠上，金色的阳光穿透雾气，形成斑驳光影，展现出地球之肺的生命力与神秘，高空航拍。
+EN：National Geographic photography, deep within the Amazon Rainforest, a massive river meanders through the endless green jungle, morning mist veils the canopy like a light gauze, golden sunlight pierces the mist, creating mottled light and shadow, showcasing the vitality and mystery of the Earth's lungs, high-altitude aerial shot, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

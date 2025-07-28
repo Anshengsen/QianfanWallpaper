@@ -1,0 +1,2 @@
+CN：专业夜景摄影，乌镇水乡，夜幕降临，两岸的古建筑挂满红灯笼，温暖的灯光在静谧的河水中投下长长的倒影，一座古老的石拱桥横跨其上，氛围宁静而梦幻，长曝光效果，4K画质。
+EN：Professional night photography, Wuzhen Water Town, as night falls, ancient buildings on both banks are adorned with red lanterns, their warm glow casting long reflections in the tranquil river, an old stone arch bridge spans across, the atmosphere is serene and dreamlike, long exposure effect, 4K quality, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

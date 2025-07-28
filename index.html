@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>千帆壁纸 - AI艺术头像与高清壁纸库</title>
+  <link rel="icon" href="icon/千帆壁纸.svg" type="image/svg+xml">
+  <meta name="description" content="千帆壁纸 - AI艺术头像壁纸库。我们利用先进的AIGC技术，生成海量独一无二的高清头像与壁纸，涵盖风景、动漫、科幻、美女等多种分类。所有头像与壁纸均可免费下载，为您的屏幕注入无限灵感。" />
+  <meta name="keywords" content="AI壁纸, AI头像, 高清壁纸, 手机壁纸, 电脑壁纸, 免费壁纸, AIGC, 艺术壁纸, 风景, 动漫, 科幻, 美女" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <a href="./" class="logo-link">
+        <img src="icon/千帆壁纸.svg" alt="千帆壁纸 Logo" class="logo-img">
+        <h1>千帆壁纸</h1>
+      </a>
+      <nav id="mainNav"></nav>
+      <ul id="productsNav" class="nav-group-container">
+        <li class="nav-group">
+          <button class="group-btn">
+            <span>旗下产品</span>
+          </button>
+          <ul class="category-list product-list">
+            <li><a href="https://anshengsen.github.io/QianfanWallpaper/" class="category-btn active">千帆壁纸</a></li>
+            <li><a href="https://anshengsen.github.io/QianfanCreative/" target="_blank" rel="noopener noreferrer" class="category-btn">千帆创意</a></li>
+            <li><a href="https://anshengsen.github.io/QianfanTag/" target="_blank" rel="noopener noreferrer" class="category-btn">千帆标签</a></li>
+            <li><a href="https://anshengsen.github.io/QianfanNav/" target="_blank" rel="noopener noreferrer" class="category-btn">千帆导航</a></li>
+            <li><a href="https://anshengsen.github.io/QianfanColor/" target="_blank" rel="noopener noreferrer" class="category-btn">千帆色卡</a></li>
+            <li><a href="https://anshengsen.github.io/QianfanPicker/" target="_blank" rel="noopener noreferrer" class="category-btn">千帆拾色</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <div class="header-right">
+      <form id="searchForm" class="search-form" onsubmit="return false;">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        <input type="search" id="searchInput" placeholder="搜索壁纸（头像暂不支持）">
+      </form>
+      <div class="header-actions">
+        <button id="themeToggle" title="切换显示模式">
+          <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+          <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="gallery"></div>
+    <div id="pagination"></div>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="donation-section">
+        <span class="donation-title">如果本站能给您带来帮助，欢迎请我们喝杯咖啡~</span>
+        <div class="donation-item wechat-donate">
+          <img src="icon/微信.png" alt="微信打赏" class="donation-icon">
+          <div class="wechat-qr-popup">
+            <img src="icon/微信打赏.png" alt="微信支付二维码">
+          </div>
+        </div>
+        <div class="donation-item">
+          <a href="https://afdian.com/a/DreamLab" target="_blank" rel="noopener noreferrer">
+            <img src="icon/爱发电.png" alt="爱发电" class="donation-icon">
+          </a>
+        </div>
+	<div class="donation-item">
+          <a href="https://paypal.me/AnShengsen" target="_blank" rel="noopener noreferrer">
+            <img src="icon/paypal.svg" alt="PayPal" class="donation-icon">
+          </a>
+        </div>
+      </div>
+      <p class="copyright">Copyright © 2025-现在 千帆壁纸 丨 Ai数字绘画馆 x DreamLab联合运营</p>
+      <p class="contact">声明：本站所有图片均由我们通过AIGC技术生成，本站所有内容均禁止用于商业用途及任何形式的网络传播！</p>
+      <p class="contact">
+        内容反馈：<a href="mailto:1938606725@qq.com">1938606725@qq.com</a> ｜
+        技术支持：<a href="mailto:403438119@qq.com">403438119@qq.com</a> ｜
+        版权投诉：<a href="mailto:ayao989898@163.com">ayao989898@163.com</a>
+      </p>
+    </div>
+  </footer>
+
+  <div id="modal" class="hidden">
+    <span id="closeModal">&times;</span>
+    <img id="modalImg" src="" alt="大图" />
+    <p class="modal-ai-label">图片由AI生成</p>
+    <a id="downloadBtn" href="#" download>下载原图</a>
+  </div>
+
+  <div id="floating-sidebar">
+    <button id="closeSidebarBtn" class="sidebar-close-btn">&times;</button>
+    <ul class="sidebar-list">
+      <li class="sidebar-item">
+        <a href="javascript:void(0);" class="sidebar-link">
+          <img src="icon/微信.png" alt="微信客服" class="sidebar-icon">
+        </a>
+        <div class="qr-popup">
+          <img src="icon/微信关注.png" alt="微信二维码">
+          <span>微信</span>
+        </div>
+      </li>
+      <li class="sidebar-item">
+        <a href="javascript:void(0);" class="sidebar-link">
+          <img src="icon/抖音.png" alt="抖音" class="sidebar-icon">
+        </a>
+        <div class="qr-popup">
+          <img src="icon/抖音关注.png" alt="抖音二维码">
+          <span>抖音</span>
+        </div>
+      </li>
+      <li class="sidebar-item">
+        <a href="https://www.xiaohongshu.com/user/profile/6123bdb4000000000101c43b" target="_blank" rel="noopener noreferrer" class="sidebar-link">
+          <img src="icon/小红书.png" alt="小红书" class="sidebar-icon">
+        </a>
+        <div class="tooltip">
+          <span>小红书</span>
+        </div>
+      </li>
+      <li class="sidebar-item">
+        <a href="https://afdian.com/a/DreamLab" target="_blank" rel="noopener noreferrer" class="sidebar-link">
+          <img src="icon/爱发电.png" alt="爱发电" class="sidebar-icon">
+        </a>
+        <div class="tooltip">
+          <span>爱发电</span>
+        </div>
+      </li>
+      <li class="sidebar-item">
+        <a href="https://tawk.to/chat/670231c0256fb1049b1dd270/1i9ge1cpl" target="_blank" rel="noopener noreferrer" class="sidebar-link">
+          <img src="icon/tawk.png" alt="联系客服" class="sidebar-icon">
+        </a>
+        <div class="tooltip">
+          <span>联系客服</span>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <script src="gallery.js"></script>
+  <script src="script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const sidebar = document.getElementById('floating-sidebar');
+      const closeBtn = document.getElementById('closeSidebarBtn');
+
+      if (sidebar && closeBtn) {
+        closeBtn.addEventListener('click', () => {
+          sidebar.classList.add('is-hidden');
+        });
+      }
+    });
+  </script>
+</body>
+</html>

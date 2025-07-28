@@ -1,0 +1,2 @@
+CN：壁纸，动漫美少女，在午后洒满阳光的书房里，光线穿透空气中的微尘形成温暖的丁达尔光束，精致的五官和妆容，蜜桃色腮红，大地色系眼影，水润的红唇，光影写实风格，以浅白色和浅琥珀色为主调，聚焦面部特写，极美，最佳品质，肌肤细腻通透。
+EN：Wallpaper, anime beautiful girl, in a study full of sunshine in the afternoon, the light passes through the fine dust in the air to form a warm Tyndall beam, exquisite facial features and makeup, peach blush, earth-tone eyeshadow, moist red lips, light and shadow realistic style, with light white and light amber as the main tone, focusing on a facial close-up, extremely beautiful, best quality, delicate and translucent skin, --q 1 --s 100 --ar 16:9 --niji 6

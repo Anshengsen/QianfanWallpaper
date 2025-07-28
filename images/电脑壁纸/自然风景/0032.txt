@@ -1,0 +1,2 @@
+CN：雪后的田野，薄雪覆盖麦苗，隐约可见远处的村庄，落日余晖，金色的光芒，宁静祥和，田园风光，油画风格，印象派，梵高风格，厚涂，4k，高清，超品质，超细节，
+EN：Fields after snow, thin snow covering wheat seedlings, villages vaguely visible in the distance, sunset, golden light, tranquility and peace, pastoral scenery, oil painting style, impressionism, Van Gogh style, thick painting, 4k, high definition, super quality, super details, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

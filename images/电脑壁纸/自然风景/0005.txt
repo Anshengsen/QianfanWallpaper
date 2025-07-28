@@ -1,0 +1,2 @@
+CN：日落，栖霞，远山，梧桐树，湖泊，树的倒影，专业摄影，风景摄影，最佳品质，8K画质，定格，
+EN：Sunset, Qixia, distant mountains, sycamore trees, lakes, tree reflections, professional photography, landscape photography, best quality, 8K quality, freeze frame, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

@@ -1,0 +1,2 @@
+CN：一位身着锦绣汉服的明媚少女，手提一盏可爱的兔子花灯，置身于上元灯节的热闹集市，背景是无数灯笼汇成的灯海，中国民俗风，动漫美学，喜庆欢快的氛围，近景肖像，高解析度，电影级质感，写实，面带笑意，亮琥珀色的眼眸，节日夜景，暖色调，虚幻引擎5。
+EN：A bright young girl in an embroidered Hanfu, carrying a cute rabbit lantern, is in the lively market of the Lantern Festival, with a sea of lanterns in the background, Chinese folk style, anime aesthetics, festive and cheerful atmosphere, close-up portrait, high resolution, cinematic texture, realistic, smiling face, bright amber eyes, festive night scene, warm tones, Unreal Engine 5, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

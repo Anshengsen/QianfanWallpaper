@@ -1,0 +1,2 @@
+CN：童话森林，发光蘑菇，花朵蘑菇盖，粉色，橙色，蓝色，梦幻，超现实主义，细节丰富，环境光，景深，8k，最佳质量，艺术品，数字绘画，概念艺术，插画，艺术站，趋势艺术
+EN：fairy tale forest, glowing mushrooms, flower mushroom caps, pink, orange, blue, dreamy, surreal, rich details, ambient light, depth of field, 8k, best quality, artwork, digital painting, concept art, illustration, art station, trending art --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

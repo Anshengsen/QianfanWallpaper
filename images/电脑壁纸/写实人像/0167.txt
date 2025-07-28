@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，梳着整洁的背头，闭着眼，神情放松，穿着剪裁合体的黑色西装，黑色背景，仅有一束窄光横扫过他的脸部，胸像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with a neat slicked-back hairstyle, eyes closed, relaxed expression, wearing a well-tailored black suit, black background, with only a narrow beam of light sweeping across his face, bust shot, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

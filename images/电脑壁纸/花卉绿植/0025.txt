@@ -1,0 +1,2 @@
+CN：特写，多朵白色玫瑰，水珠，花瓣，花蕊，阳光，光晕，明暗对比，高清，最佳品质，8K，超细腻，电影级光照
+EN：Close-up, many white roses, water drops, petals, stamens, sunlight, halo, chiaroscuro, HD, best quality, 8K, ultra-detailed, cinematic lighting --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

@@ -1,0 +1,2 @@
+CN：概念艺术，张家界奇特的石英砂岩峰林，山峰如同悬浮在空中的岛屿，云雾缭绕其间，日出时分的金色光芒，中国神话氛围，虚幻引擎5渲染，壮丽，航拍视角。
+EN：Concept art, the peculiar quartz sandstone peaks of Zhangjiajie, the peaks are like islands floating in the air, surrounded by clouds and mist, the golden light of sunrise, Chinese mythology atmosphere, Unreal Engine 5 rendering, magnificent, aerial view, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：电影级摄影，甘肃扎尕那，清晨的阳光刺破云雾，照亮坐落在翠绿山腰上的古老藏族村寨，木制房屋层层叠叠，宛如一座石头城堡，山谷中云海翻腾，画面如梦似幻，壮观而隐秘，航拍视角。
+EN：Cinematic photography, Zhagana, Gansu, the early morning sun breaks through clouds and mist, illuminating the ancient Tibetan village nestled on the lush green mountainside, wooden houses are stacked in layers, resembling a stone castle, a sea of clouds churns in the valley, the scene is dreamlike, spectacular and secluded, aerial perspective, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

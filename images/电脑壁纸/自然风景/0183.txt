@@ -1,0 +1,3 @@
+CN：安塞尔·亚当斯风格的黑白风景摄影，阿根廷莫雷诺冰川，巨大的冰川冰壁布满了深刻的裂缝和复杂的纹理，展现出自然的原始力量和抽象之美，画面锐利，细节丰富，巨大的规模感。
+EN：Ansel Adams style black and white landscape photography, Perito Moreno Glacier, Argentina, a massive glacial ice wall covered in deep crevasses and intricate textures, showcasing nature's raw power and abstract beauty, sharp focus, rich in detail, immense sense of scale, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy
+

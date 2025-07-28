@@ -1,0 +1,2 @@
+CN：电影CG级，动漫风格化，次世代角色扮演游戏女主，笔触饱满，幽暗深邃，猩红与炭黑交织，华丽玫瑰藤蔓缠绕，古老钥匙链，背对观众侧身回望，氛围光，面部细节，最高分辨率，8K。
+EN：Cinematic CG level, anime stylized, next-gen RPG female protagonist, full brushstrokes, obscure and profound darkness, crimson and charcoal black interwoven, ornate rose vines intertwined, ancient key chain, back to audience with a side glance, atmospheric lighting, facial details, highest resolution, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

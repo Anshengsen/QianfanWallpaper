@@ -1,0 +1,2 @@
+CN：电影级广角镜头，黄果树大瀑布，巨大的水流从悬崖上奔腾而下，水雾弥漫，阳光穿过水雾形成一道绚丽的彩虹，展现了大自然的磅礴力量和壮丽，动态感，高清纹理，4K。
+EN：Cinematic wide-angle lens, Huangguoshu Waterfall, the massive torrent of water plunges down from the cliff, mist fills the air, sunlight pierces the mist to form a brilliant rainbow, showcasing the majestic power and magnificence of nature, dynamic feel, high-definition texture, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

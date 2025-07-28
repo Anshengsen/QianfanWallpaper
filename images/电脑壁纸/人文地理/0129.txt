@@ -1,0 +1,2 @@
+CN：艺术摄影，布宜诺斯艾利斯雷科莱塔公墓，午后的阳光穿过雕塑和华丽的陵墓，在狭窄的通道上投下长长的影子，宁静而庄严，充满历史感，建筑细节，胶片质感。
+EN：Artistic photography, Recoleta Cemetery, Buenos Aires, afternoon sun streams through sculptures and ornate mausoleums, casting long shadows on the narrow pathways, serene and solemn, full of history, architectural details, film texture, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

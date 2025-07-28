@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小男孩，穿着深蓝色的汉服，因为用力而脸颊泛红，头上束着简单的布质发带，他正坐在桌前，用布擦拭着一把心爱的木剑，3D，C4D，高细节，高清，8K，柔和的自然光，旁边放着一本《武功秘籍》。
+EN：3d cartoon chibi illustration, a cute little boy, wearing a deep blue hanfu, his cheeks flushed from exertion, with a simple cloth headband on his head, he is sitting at the table, wiping his beloved wooden sword with a cloth, 3D, C4D, high detail, HD, 8K, soft natural light, with a "Martial Arts Manual" next to him. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

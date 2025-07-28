@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲女性，扎着高高的马尾，眼妆极简，穿着黑色不对称领口设计的上衣，展示着优美的侧面轮廓，黑色背景，一道光线从背后打来形成轮廓光，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian woman with a high ponytail and minimalist eye makeup, wearing a black asymmetrical neckline top, showing a graceful side profile, black background, a light from behind creating a rim light, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

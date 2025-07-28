@@ -1,0 +1,2 @@
+CN：海浪，特写，夕阳光线，金色，波光粼粼，汹涌，泡沫，动感，自然，摄影，电影感，广角，低角度，高对比度，暖色调，细节丰富
+EN：ocean waves close up sunset light golden sparkling surging foam dynamic nature photography cinematic wide angle low angle high contrast warm tones rich details --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

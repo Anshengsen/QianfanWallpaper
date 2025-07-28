@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着靛蓝色的汉服，脸庞泛红，头上戴着星星月亮的发饰，她正坐在书桌前，研究一张古老的星象图，神情专注，3D，C4D，高细节，高清，8K，柔和的自然光，桌上有一盏小小的莲花灯。
+EN：3d cartoon chibi illustration, a cute little girl, wearing an indigo blue hanfu, with a flushed face, wearing a star and moon hair accessory, she is sitting at a desk, studying an ancient star chart with a focused expression, 3D, C4D, high detail, HD, 8K, soft natural light, there is a small lotus lamp on the table. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

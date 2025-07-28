@@ -1,0 +1,2 @@
+CN：古风玄幻，天音神女，面容柔美空灵，妆容如梦似幻，带有柔和光晕，厚涂艺术风格，身披随风而动的轻纱羽衣，近景半身，8k，发间点缀着音符形状的宝石与长长的飘带，肌肤细腻，梦幻般的色调，细节描绘极致，宛如真人，瑰丽无比。
+EN：Ancient-style fantasy, Goddess of Heavenly Music, with a gentle and ethereal face, dreamlike makeup with a soft halo, thick paint art style, wearing a light gauze feathered robe that moves with the wind, close-up bust, 8k, hair adorned with note-shaped gems and long ribbons, delicate skin, dreamy color palette, extreme detail in depiction, lifelike, magnificent and beautiful, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

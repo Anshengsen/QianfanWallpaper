@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着紫色的汉服，脸蛋红红的，头上戴着精美的流苏发饰，坐在窗边的书桌前托着腮帮发呆，看着窗外，3D，C4D，高细节，高清，8K，柔和的月光，瓶子里插着几支梅花。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a purple hanfu, with rosy cheeks, wearing a delicate tassel hair accessory on her head, sitting at a desk by the window with her chin in her hands in a daze, looking out the window, 3D, C4D, high detail, HD, 8K, soft moonlight, a few plum blossoms are in a vase. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

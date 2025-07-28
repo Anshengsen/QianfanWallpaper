@@ -1,0 +1,2 @@
+CN：高对比度黑白航拍摄影，智利阿塔卡马沙漠的月亮谷，极端干旱的地貌形成了奇特的岩层和沙丘，光影强烈，宛如异星地表，展现出荒凉而壮丽的美感，画面极简，质感强烈。
+EN：High-contrast black and white aerial photography, Valley of the Moon in the Atacama Desert, Chile, the extremely arid landscape forms peculiar rock formations and sand dunes, with strong light and shadows, resembling an alien surface, showcasing a desolate yet magnificent beauty, minimalist image, strong texture, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

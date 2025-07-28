@@ -1,0 +1,2 @@
+CN：专业建筑摄影，苏里南帕拉马里博历史内城，阳光明媚的日子里，一排独特的白色木制荷兰殖民风格建筑，街道干净整洁，光影分明，充满了宁静和独特的历史魅力，照片级真实感。
+EN：Professional architectural photography, Historic Inner City of Paramaribo, Suriname, on a sunny day, a row of unique white wooden Dutch colonial style buildings, the street is clean and tidy, with clear light and shadows, full of tranquility and unique historical charm, photorealistic, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

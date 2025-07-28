@@ -1,0 +1,2 @@
+照片，摄影，真实人像，白皙的皮肤，最佳品质，全景，亚洲绝美少女，20岁，身着淡粉色连帽卫衣和运动裤，趴在家中游戏室的沙发上，一只手拿起一个游戏手柄（屏幕不在画面中），眼神专注而兴奋，背景是模糊的电竞周边，活力，现代，桌面壁纸
+Photo, photography, realistic portrait, fair skin, best quality, full body shot, absolutely beautiful Asian girl, 20 years old, wearing a light pink hooded sweatshirt and sweatpants, lying on a sofa in a home game room, one hand picking up a game controller (screen not in frame), eyes focused and excited, blurred gaming peripherals in background, vibrant, modern, desktop wallpaper --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

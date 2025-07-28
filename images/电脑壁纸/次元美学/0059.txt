@@ -1,0 +1,2 @@
+CN：壁纸，动漫美少女，置身于晨光熹微的玻璃花房中，光线透过水汽形成柔和的丁达尔效应，精致的五官和妆容，粉嫩的腮红，闪亮的香槟色眼影，玫瑰红唇，光影写实风格，色调是浅白色和浅琥珀色，聚焦脸部特写，极美，最佳品质，肌肤质感细腻。
+EN：Wallpaper, anime beautiful girl, in a glass flower house in the early morning light, the light passes through the water vapor to form a soft Tyndall effect, exquisite facial features and makeup, pink blush, shiny champagne eyeshadow, rose red lips, light and shadow realistic style, the tones are light white and light amber, focusing on a facial close-up, extremely beautiful, best quality, delicate skin texture, --q 1 --s 100 --ar 16:9 --niji 6

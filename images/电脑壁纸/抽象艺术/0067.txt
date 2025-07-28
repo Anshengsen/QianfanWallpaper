@@ -1,0 +1,2 @@
+CN：企业识别设计，神秘科技美学，冰蓝光泽，悬浮元素边缘锐利，纯黑色衬底，部分区域有深蓝辉光，机械感，创新，极高分辨率，完美质量，8K。
+EN：Corporate identity design, mysterious tech aesthetic, ice blue luminescence, floating elements with sharp edges, pure black backing, select areas with deep blue radiance, mechanical feel, innovative, extremely high resolution, flawless quality, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：史诗级摄影，华山之巅，险峻的花岗岩山峰刺破云海，一条狭窄的石阶小路在悬崖边蜿蜒，日出的光芒为山巅镀上金边，展现出大自然的险峻与壮美，高对比度，超高分辨率。
+EN：Epic photography, the summit of Mount Hua, precipitous granite peaks piercing a sea of clouds, a narrow stone path winds along the cliff edge, sunrise light gilds the mountaintops, showcasing nature's peril and magnificence, high contrast, ultra-high resolution, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

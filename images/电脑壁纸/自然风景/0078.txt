@@ -1,0 +1,2 @@
+CN：壮丽的海岸日落，海浪，岩石，峡谷，长曝光，暖色调，金色光芒，紫色天空，云彩，自然风光，广角镜头，高动态范围，电影级光照，超高质量，8K，超细节
+EN：Magnificent coastal sunset, waves, rocks, canyon, long exposure, warm tones, golden light, purple sky, clouds, nature scenery, wide angle lens, high dynamic range, cinematic lighting, ultra high quality, 8K, ultra detail --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

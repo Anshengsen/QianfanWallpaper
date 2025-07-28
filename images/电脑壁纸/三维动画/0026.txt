@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着水绿色的汉服，脸蛋微红，戴着小鲤鱼发饰，她正趴在桌沿，聚精会神地看着小瓷碗里游动的金鱼，3D，C4D，高细节，高清，8K，柔和的自然光，碗里漂着一片睡莲叶。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a aqua green hanfu, with slightly red cheeks, wearing a small koi fish hair accessory, she is leaning on the edge of the table, watching the goldfish swimming in a small porcelain bowl with great concentration, 3D, C4D, high detail, HD, 8K, soft natural light, a water lily leaf is floating in the bowl. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

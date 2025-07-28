@@ -1,0 +1,2 @@
+CN：法国巴黎铁塔，日落，金色光芒，埃菲尔铁塔，浪漫，温暖，长焦镜头，对称构图，柔和的光线，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD 
+EN：Eiffel Tower, Paris, France, sunset, golden light, Eiffel Tower, romance, warmth, telephoto lens, symmetrical composition, soft light, best quality, 8K, ultra detail, ultra quality, cinematic lighting, real photography, UHD --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

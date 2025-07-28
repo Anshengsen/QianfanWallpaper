@@ -1,0 +1,2 @@
+CN：立冬主题，3D渲染图，写实，暖色调灯光，主体为一棵光秃秃的树木，地面覆盖一层薄霜，背景为朦胧的远山，全局光照，高精度建模，8K分辨率，超高品质，Octane Render渲染，
+EN：Beginning of Winter theme, 3D rendering, realistic, warm lighting, the main subject is a bare tree, the ground is covered with a thin layer of frost, the background is hazy mountains, global illumination, high-precision modeling, 8K resolution, ultra-high quality, Octane Render rendering, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

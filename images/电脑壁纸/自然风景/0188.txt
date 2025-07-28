@@ -1,0 +1,2 @@
+CN：专业风景摄影，智利百内国家公园，日出时分，第一缕阳光将标志性的百内三塔花岗岩山峰染成鲜艳的橙红色，山峰完美倒映在宁静的绿松石色湖水中，画面色彩饱和，细节锐利，极致的自然风光。
+EN：Professional landscape photography, Torres del Paine National Park, Chile, at sunrise, the first light paints the iconic Towers of Paine granite peaks in vibrant orange-red, the peaks are perfectly reflected in the tranquil turquoise lake, the image is color-saturated, with sharp details, the ultimate natural scenery, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

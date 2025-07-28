@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着浅绿色的汉服，脸颊泛红，头上戴着精致的莲花发饰，她正坐在桌前，用小毛笔认真地练习书法，墨迹未干，3D，C4D，高细节，高清，8K，柔和的自然光，桌上摆着一小碟荷花瓣。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a light green hanfu, with flushed cheeks, wearing a delicate lotus hair accessory on her head, she is sitting at the table, seriously practicing calligraphy with a small brush, the ink is not yet dry, 3D, C4D, high detail, HD, 8K, soft natural light, a small dish of lotus petals is on the table. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

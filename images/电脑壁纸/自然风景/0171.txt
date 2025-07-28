@@ -1,0 +1,2 @@
+CN：摄影杰作，万里长城在冬日日出时分，白雪覆盖着蜿蜒的山峦，长城像一条巨龙盘踞其上，金色的阳光洒满大地，史诗般的宏伟，航拍视角，超高细节，国家地理风格。
+EN：Photographic masterpiece, the Great Wall of China at winter sunrise, snow covering the winding mountains, the wall like a giant dragon coiling on top, golden sunlight blanketing the earth, epic grandeur, aerial perspective, ultra-high detail, National Geographic style, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

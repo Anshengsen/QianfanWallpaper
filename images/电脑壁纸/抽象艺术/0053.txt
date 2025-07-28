@@ -1,0 +1,2 @@
+CN：抽象意境画，夕阳透过粗糙玻璃视角，画面朦胧柔和，主色调为橙色、深黑与淡蓝，自然光线洒落，竖向构图，梦幻般朦胧美学，色彩形成强烈反差，带有细腻纹理，艺术摄影。
+EN：Abstract artistic conception, sunset viewed through a rough glass perspective, the scene is soft and blurred, main colors are orange, deep black, and light blue, natural light spills over, vertical composition, dreamy hazy aesthetic, strong color contrast, with delicate textures, artistic photography. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

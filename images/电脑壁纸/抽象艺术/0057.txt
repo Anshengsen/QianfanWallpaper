@@ -1,0 +1,2 @@
+CN：概念水面构图，高空俯瞰，扁舟，仅一人，极致简化，剪纸分层构造，靛蓝色水体，天蓝色湖面，雪白岸线，水彩效果，日光柔和，最高标准，8K超精细，细节丰富。
+EN：Conceptual water surface composition, high-altitude overhead view, flat boat, only one person, extremely simplified, layered paper-cut construction, indigo water body, sky blue lake surface, snow-white shoreline, watercolor effect, soft sunlight, highest standard, 8K ultra-fine, rich details. --q 1 --s 100 --ar 16:9 --v 6.0

@@ -1,0 +1,2 @@
+CN：国家地理野生动物摄影，加拉帕戈斯群岛，一只海鬣蜥栖息在黑色的火山岩上，背景是蔚蓝的太平洋和拍击的浪花，阳光下它独特的皮肤纹理和颜色细节极致清晰，展现出史前生物般的魅力，特写，极致细节。
+EN：National Geographic wildlife photography, Galapagos Islands, a marine iguana rests on black volcanic rocks, with the azure Pacific Ocean and crashing waves in the background, its unique skin texture and color details are extremely clear under the sunlight, showcasing a prehistoric creature-like charm, close-up, extreme detail, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

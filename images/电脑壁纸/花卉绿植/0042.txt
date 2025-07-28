@@ -1,0 +1,2 @@
+CN：特写，微距摄影，蓝色花朵，黄色花蕊，水滴，晶莹剔透，湿润，清新，自然光，高饱和度，锐利细节，8K，超高分辨率
+EN：close-up, macro photography, blue flowers, yellow stamens, water drops, crystal clear, wet, fresh, natural light, high saturation, sharp details, 8K, ultra-high resolution --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

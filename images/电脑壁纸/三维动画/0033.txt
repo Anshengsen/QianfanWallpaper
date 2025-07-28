@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小男孩，穿着纯白色汉服，脸颊泛红，头上用一根简单的发簪固定，他坐在桌前，给一把纸扇画山水，脸上不小心蹭到了墨点，3D，C4D，高细节，高清，8K，柔和的自然光，旁边放着砚台和毛笔。
+EN：3d cartoon chibi illustration, a cute little boy, wearing a pure white hanfu, with flushed cheeks, his hair fixed with a simple hairpin, he is sitting at the table, painting a landscape on a paper fan, and accidentally got an ink spot on his face, 3D, C4D, high detail, HD, 8K, soft natural light, with an inkstone and brush next to him. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

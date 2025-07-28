@@ -1,0 +1,2 @@
+CN：写实摄影，苏州拙政园的一角，阳光透过精致的花窗和柳树枝条，在青石板路上投下斑驳的光影，平静的池塘倒映着古雅的亭台楼阁，画面宁静而充满诗意，景深效果，柔和的光线，细节丰富。
+EN：Realistic photography, a corner of the Humble Administrator's Garden in Suzhou, sunlight filters through exquisite latticed windows and willow branches, casting mottled light and shadows on the flagstone path, the calm pond reflects the elegant pavilions, the scene is tranquil and full of poetry, depth of field, soft light, rich in detail, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

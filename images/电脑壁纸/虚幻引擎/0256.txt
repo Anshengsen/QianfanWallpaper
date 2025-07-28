@@ -1,0 +1,3 @@
+CN：2.2D风格，宁静少女，身着飘逸汉服，侧身慵懒依靠，乌黑长发如瀑布般倾泻，佩戴精美古典发簪，垂坠雅致耳饰，瓜子脸颊轮廓秀美，双眸轻阖，面带朦胧醉意，肤如凝脂白皙，沐浴在柔和的光晕中，画面唯美如画，充满梦幻色彩，细节描绘入微，极强的景深，背景淡雅虚化，空中花瓣轻舞飞扬，8k，极致高清。
+EN：2.2D style, serene maiden, clad in flowing Hanfu, reclining languidly on her side, black long hair cascading like a waterfall, adorned with exquisite classical hairpins, gracefully dangling earrings, face with beautiful oval contours, eyes gently closed, a dreamy blurred expression, porcelain-like fair skin, bathed in a soft halo of light, the picture is artistically beautiful and dreamlike, rich in intricate details, strong depth of field, elegantly blurred background, petals lightly dancing in the air, 8k, ultimate high definition. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71
+

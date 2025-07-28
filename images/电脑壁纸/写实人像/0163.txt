@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲女性，齐肩短发，浓郁的眼妆，穿着黑色皮质夹克，用手轻轻触碰自己的脸颊，眼神忧郁地看向画外，黑色背景，一束窄光照亮她的眼睛和手，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian woman with shoulder-length short hair and heavy eye makeup, wearing a black leather jacket, gently touching her cheek with her hand, looking out of frame with a melancholic gaze, black background, a narrow beam of light illuminating her eyes and hand, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

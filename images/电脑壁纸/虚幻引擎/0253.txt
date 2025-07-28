@@ -1,0 +1,2 @@
+CN：游戏CG女主角，虚幻5引擎，纯白瀑布般长发披肩，清丽面庞，诱人绛唇，珠光耳环，时尚颈链，经典白衬衫，眼神深邃思索，托腮凝望，室内窗景，金色阳光，光影散射，柔和电影布光，质感细腻，8K。
+EN：Game CG heroine, Unreal 5 engine, pure white waterfall-like long hair cascading, delicate face, alluring red lips, pearlescent earrings, stylish necklace, classic white shirt, profound contemplative gaze, chin propped, indoor window scene, golden sunlight, scattered light and shadow, soft cinematic lighting, fine texture, 8K. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

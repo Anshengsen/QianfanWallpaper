@@ -1,0 +1,2 @@
+CN：特写，两朵牡丹花，一朵白色，一朵朱砂红色，花瓣上有水珠，绿色背景，自然光，高对比度，细节丰富，植物摄影，8K
+EN：Close-up of two peony flowers, one white and one vermilion red, with water drops on petals, green background, natural light, high contrast, rich details, botanical photography, 8K --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

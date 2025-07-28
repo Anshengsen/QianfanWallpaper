@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲女性，梳着古典的发髻，眼线夸张上扬，穿着黑色丝质衬衫，闭着眼睛，神情宁静，黑色背景，脸上只有局部块状的白色光影，胸像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian woman with a classic bun and exaggerated winged eyeliner, wearing a black silk blouse, eyes closed with a serene expression, black background, with only partial blocks of white light and shadow on her face, bust shot, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

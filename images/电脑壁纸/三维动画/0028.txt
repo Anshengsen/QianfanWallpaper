@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着杏橙色的汉服，脸颊红润，戴着柿子样式的发饰，她正坐在桌子前，笨拙地学着包汤圆，脸上沾了一点糯米粉，3D，C4D，高细节，高清，8K，柔和的室内暖光，旁边有一碗桂花。
+EN：3d cartoon chibi illustration, a cute little girl, wearing an apricot-orange hanfu, with rosy cheeks, wearing a persimmon-style hair accessory, she is sitting at the table, clumsily learning to make sweet dumplings, with a little glutinous rice flour on her face, 3D, C4D, high detail, HD, 8K, soft indoor warm light, there is a bowl of osmanthus flowers next to her. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

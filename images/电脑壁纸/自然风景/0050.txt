@@ -1,0 +1,2 @@
+CN：自然风光，瀑布，溪流，岩石峭壁，秋季，落叶，树木，长曝光，广角，低角度，对称构图，冷色调，高对比度，自然光，柔和水流，清晰细节，高饱和度，宁静氛围，8K，超高分辨率，最佳画质
+EN：Nature, waterfall, stream, rocky cliff, autumn, fallen leaves, trees, long exposure, wide angle, low angle, symmetrical composition, cold tones, high contrast, natural light, gentle water flow, clear details, high saturation, tranquil atmosphere, 8K, ultra high resolution, best quality --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

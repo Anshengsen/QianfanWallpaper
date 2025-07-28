@@ -1,0 +1,2 @@
+CN：深秋公路，道路两侧是枫树，掉落在路上的枫叶，秋天，远处是高耸的雪山，风景摄影，专业摄影，
+EN：Highway in late autumn, maple trees on both sides of the road, maple leaves falling on the road, in autumn, towering snow-capped mountains in the distance, landscape photography, professional photography, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

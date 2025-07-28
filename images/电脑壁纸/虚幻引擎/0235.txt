@@ -1,0 +1,2 @@
+CN：次世代写实渲染，动漫风格化，数字游戏女武神，厚涂笔触，哥特式暗调，绯红与漆黑对比，佩戴玫瑰纹饰，腰间挂有符文之钥，身体侧转，目光回望，强劲轮廓光，无与伦比的细节，最高画质，8K。
+EN：Next-gen realistic rendering, anime stylized, digital game valkyrie, impasto brushwork, gothic dark tone, crimson and pitch black contrast, adorned with rose motifs, a runic key hanging at the waist, body turned sideways, gaze looking back, powerful rim lighting, unparalleled details, highest quality, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

@@ -1,0 +1,2 @@
+CN：自然风光，湖边小径，绿色调，实木步道，树木环绕，倒影，广角，自然光，高饱和度，宁静，8K，超高清
+EN：Natural scenery, lakeside path, green tones, wooden walkway, surrounded by trees, reflections, wide angle, natural light, high saturation, tranquility, 8K, UHD --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，利落的短发，眼神深邃，穿着黑色高领毛衣，直视前方，充满力量感，黑色背景，戏剧性的白色侧光，胸像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with neat short hair and deep eyes, wearing a black turtleneck sweater, looking straight ahead, full of power, black background, dramatic white side light, bust shot, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

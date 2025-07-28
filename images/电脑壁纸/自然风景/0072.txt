@@ -1,0 +1,2 @@
+CN：冰岛瀑布风光，广角镜头，冬季，雪山，冰川融水，湍急的瀑布，极光，绿色，深蓝色调，冷色调，自然光，长时间曝光，高对比度，高动态范围(HDR)，超高清，8K，最佳画质。
+EN：Iceland waterfall scenery, wide angle lens, winter, snow-capped mountains, glacial meltwater, rushing waterfalls, aurora, green, dark blue tones, cold tones, natural light, long exposure, high contrast, high dynamic range (HDR), ultra high definition, 8K, best picture quality. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

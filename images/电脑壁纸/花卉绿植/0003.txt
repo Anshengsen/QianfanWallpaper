@@ -1,0 +1,2 @@
+CN：特写，莲花，粉色花瓣，绿色荷叶，自然光，柔和焦点，清新风格，高饱和度，细节丰富，植物摄影
+EN：Close-up, lotus, pink petals, green lotus leaves, natural light, soft focus, fresh style, high saturation, rich details, plant photography --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

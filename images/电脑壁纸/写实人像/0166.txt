@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，凌乱的纹理短发，佩戴简约的金属饰品，穿着黑色皮夹克，低头看向一侧，神情冷峻，黑色背景，一道来自后方的轮廓光，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with messy textured short hair, wearing simple metal accessories, wearing a black leather jacket, looking down to one side, with a cold expression, black background, a rim light from behind, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

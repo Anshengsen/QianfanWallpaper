@@ -1,0 +1,2 @@
+CN：抽象艺术装置，幽谧光影，深邃空间。纯黑背景，一道强烈的光束穿透，被复杂的晶体结构折射，向周围散射出变幻莫测的色彩。光谱般的光线柔和交织，光晕边缘带有朦胧效果，如同宇宙深处的奇异律动。超高清，未来感，顶级画质，8K。
+EN：Abstract art installation, secluded light and shadow, deep space. Against a pure black background, a strong beam of light penetrates, refracted by complex crystal structures, scattering unpredictable colors around. Spectrum-like light softly interwoven, with a hazy effect on the edges of the halo, like a strange rhythm from the depths of the universe. Ultra high definition, futuristic, top quality, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

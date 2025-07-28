@@ -1,0 +1,2 @@
+CN：航拍摄影，里约热内卢科帕卡巴纳海滩，标志性的弧形海岸线和波浪图案人行道，糖面包山在远处矗立，阳光明媚，沙滩上人影点点，海水蔚蓝，充满活力和热情的度假氛围，广角，照片级真实感。
+EN：Aerial photography, Copacabana Beach, Rio de Janeiro, the iconic curved coastline and wave-patterned sidewalk, Sugarloaf Mountain stands in the distance, sunny day, scattered figures on the beach, azure ocean, vibrant and passionate holiday atmosphere, wide angle, photorealistic, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：真实摄影，雪山，玉龙雪山，阳光明媚，风景摄影，写实广角镜头，
+EN：Real photography, snow-capped mountains, Jade Dragon snow-capped mountains, sunny, landscape photography, realistic wide-angle lenses, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

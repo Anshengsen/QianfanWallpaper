@@ -1,0 +1,2 @@
+CN：霓虹美学，机械蝴蝶精灵，拥有精巧的机械构造面容，虹彩色的眼眸，电影级光照，悬浮于赛博都市的空中花园，背景是流光溢彩的全息植物，空灵感，未来主义，超写实，顶尖画质，景深。
+EN：Neon aesthetics, mechanical butterfly elf, with a delicately crafted mechanical face, iridescent eyes, movie-level lighting, floating in a sky garden of a cyber city, the background is full of holographic plants with flowing light and color, ethereal feeling, futurism, hyper-realistic, top-tier quality, depth of field, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

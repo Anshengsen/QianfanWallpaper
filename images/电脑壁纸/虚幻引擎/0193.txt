@@ -1,0 +1,2 @@
+CN：古色古香的茶楼中，一位风姿绰约的女主人正凭栏远眺，她微微侧身回眸，容颜惊艳，充满故事感，虚幻引擎5质感，写实主义，近身特写，黄昏的光线与室内灯笼的光晕交织，形成戏剧性的丁达尔效果，光影柔美，顶级品质，复古暖色调。
+EN：In an antique teahouse, a graceful female owner is leaning on the railing and looking into the distance. She turns slightly to look back, her face is stunning and full of stories, Unreal Engine 5 texture, realism, close-up shot, the twilight and the halo of indoor lanterns intertwine, creating a dramatic Tyndall effect, soft light and shadow, top quality, vintage warm tones, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

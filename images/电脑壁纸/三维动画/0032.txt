@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小男孩，穿着棕色的汉服，脸蛋红扑扑，戴着小老虎造型的发饰，他正坐在桌前，开心地摆弄着一只木雕小老虎，3D，C4D，高细节，高清，8K，柔和的自然光，桌上放着一串糖葫芦。
+EN：3d cartoon chibi illustration, a cute little boy, wearing a brown hanfu, with rosy cheeks, wearing a little tiger-shaped hair accessory, he is sitting at the table, happily playing with a small wooden carved tiger, 3D, C4D, high detail, HD, 8K, soft natural light, there is a stick of tanghulu on the table. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

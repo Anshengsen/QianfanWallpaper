@@ -1,0 +1,2 @@
+CN：专业旅行摄影，巴西萨尔瓦多历史中心（佩洛尼奥），色彩缤纷的殖民时期建筑排列在陡峭的鹅卵石街道两旁，傍晚的金色阳光温暖地照亮了建筑外墙，充满活力的街头氛围，色彩饱和，照片级真实感。
+EN：Professional travel photography, Historic Centre of Salvador, Brazil (Pelourinho), colorful colonial buildings line the steep cobblestone streets, the warm golden light of late afternoon illuminates the facades, vibrant street atmosphere, saturated colors, photorealistic, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着粉色的汉服，脸蛋红扑扑的，戴着兔子造型的发饰，趴在书桌上打盹，旁边摊着一本画册和几支彩笔，3D，C4D，高细节，高清，8K，柔和的午后阳光，几片飘落的银杏叶。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a pink hanfu, with rosy cheeks, wearing a rabbit-shaped hair accessory, dozing off on a desk, with a picture book and a few colored pens spread out beside her, 3D, C4D, high detail, HD, 8K, soft afternoon sunlight, a few falling ginkgo leaves. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

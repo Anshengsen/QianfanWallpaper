@@ -1,0 +1,2 @@
+CN：特写，微距摄影，粉白色牡丹花，水滴，花瓣，绿色叶子，自然光，柔和，明亮，高饱和度，细节丰富，高清晰度，8K，超高清
+EN：Close-up, macro photography, pink and white peony flower, water drops, petals, green leaves, natural light, soft, bright, high saturation, rich details, high definition, 8K, UHD --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

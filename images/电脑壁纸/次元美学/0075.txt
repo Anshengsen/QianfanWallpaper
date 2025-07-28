@@ -1,0 +1,2 @@
+CN：动漫人物，少女，构图侧影，乌发遮眼，金眸微光，牙齿带艺术金色点缀，纯黑色调，深沉背景，若有所思，手托腮，暗色服饰，精致颈饰，暗黑浪漫哥特风格，情感表达，视觉冲击，细节考究，完美画质，8K。
+EN：Anime character, young girl, side silhouette composition, dark hair covering eye, golden eye glimmer, teeth with artistic golden accents, pure black tones, deep background, thoughtful, hand propping chin, dark attire, delicate neck adornment, dark romantic Gothic style, emotional expression, visual impact, meticulous details, perfect image quality, 8K, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

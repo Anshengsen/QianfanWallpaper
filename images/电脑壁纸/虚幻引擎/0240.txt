@@ -1,0 +1,2 @@
+CN：动漫风格肖像，少女，侧面构图，乌黑长发拂面遮眼，金色瞳孔熠熠生辉，嘴唇含蓄金色点缀，纯黑背景，低沉色调，沉思冥想神情，手轻托下颌，暗色上装，精致颈链，哥特式韵味，情感充沛，高对比度，细节繁复，超高画质，8K。
+EN：Anime style portrait, young girl, side profile composition, dark hair brushing face and covering an eye, golden pupil shining brightly, subtle golden accents on lips, pure black background, low-key tones, contemplative meditative expression, hand gently supporting chin, dark attire, delicate neck chain, Gothic charm, rich in emotion, high contrast, intricate details, ultra-high quality, 8K, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

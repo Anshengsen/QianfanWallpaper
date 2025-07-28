@@ -1,0 +1,2 @@
+CN：远山，薄雾，森林，深青色调，冷峻氛围，广角镜头，自然风光摄影，高对比度，细节丰富，电影级光照，8K
+EN：Distant mountains, mist, forest, dark cyan tones, cold atmosphere, wide-angle lens, natural scenery photography, high contrast, rich details, cinematic lighting, 8K --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

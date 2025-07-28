@@ -1,0 +1,2 @@
+CN：史诗级风景摄影，雄伟的雪山山脉在日出时分，第一缕阳光将锯齿状的山峰染成金色，下方是翻滚的云海，展现了大自然原始而纯粹的宏伟力量，航拍视角，超高分辨率，4K。
+EN：Epic landscape photography, a majestic range of snow-capped mountains at sunrise, the first rays of light dye the jagged peaks golden, below is a roiling sea of clouds, showcasing the raw and pure magnificent power of nature, aerial perspective, ultra-high resolution, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

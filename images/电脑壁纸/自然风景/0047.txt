@@ -1,0 +1,2 @@
+CN：沙漠景观，沙丘，风吹起的沙粒，明亮的蓝色天空，自然光，广角镜头，暖色调，高对比度，极简构图，自然摄影，超高清细节。
+EN：Desert landscape, sand dunes, windblown sand, bright blue sky, natural light, wide angle lens, warm tones, high contrast, minimal composition, nature photography, ultra high definition details. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

@@ -1,0 +1,2 @@
+CN：未来品牌视觉，科技暗影风格，邃蓝流光，液态造型轮廓鲜明，极深邃背景，局部弥散深蓝光芒，科幻，尖端，超高清，顶级画质，8K。
+EN：Future brand visual, tech-noir style, deep blue flowing light, liquid forms with sharp contours, ultra-deep background, localized scattered deep blue glow, sci-fi, cutting-edge, ultra high definition, top quality, 8K. --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

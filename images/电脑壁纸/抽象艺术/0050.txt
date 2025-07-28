@@ -1,0 +1,2 @@
+CN：黏土材质，鹅卵石，多种颜色，蓝色，橙色，米色，光滑表面，漫反射，柔和阴影，细节丰富，超现实主义，高品质，8K，OC渲染，工作室照明，产品摄影
+EN：Clay material, pebbles, multiple colors, blue, orange, beige, smooth surface, diffuse reflection, soft shadows, rich details, hyperrealism, high quality, 8K, OC rendering, studio lighting, product photography --q 5 --s 50 --ar 16:9 --niji 6 --personalize abwlbtq 

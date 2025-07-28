@@ -1,0 +1,2 @@
+CN：电影级摄影，里约热内卢的贫民窟，傍晚的金色光线，色彩缤纷的房屋密密麻麻地堆叠在山坡上，展现出复杂的纹理和生活气息，纪实风格，景深，超高分辨率。
+EN：Cinematic photography, Favelas of Rio de Janeiro, golden hour light, colorful houses densely stacked on the hillside, showing complex textures and a sense of life, documentary style, depth of field, ultra-high resolution, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

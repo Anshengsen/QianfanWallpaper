@@ -1,0 +1,2 @@
+CN：顶级写实肖像，亚洲女孩形象，UE5实时渲染，柔顺白发，长发披散，完美面部轮廓，明艳红唇，奢华耳饰，简约项链，白色纯棉衬衫，沉静思考，手托下颌，窗边自然光，丁达尔效应，电影感光源，温暖柔光，像素级细节，8K。
+EN：Top-tier realistic portrait, Asian girl character, UE5 real-time rendering, smooth white hair, long hair flowing freely, perfect facial contours, bright red lips, luxurious earrings, simple necklace, white cotton shirt, deep contemplation, hand supporting chin, natural light by the window, Tyndall effect, cinematic light source, warm soft light, pixel-level details, 8K. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

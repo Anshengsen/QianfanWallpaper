@@ -1,0 +1,2 @@
+CN：香格里拉，雪山，草原，藏族文化，神秘，广角镜头，全景构图，冷色调，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD，
+EN：Shangri-La, snow-capped mountains, grasslands, Tibetan culture, mysterious, wide-angle lens, panoramic composition, cold tones, best quality, 8K, ultra-details, ultra-quality, movie-level lighting, real photography, UHD, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

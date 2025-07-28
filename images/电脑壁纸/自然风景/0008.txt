@@ -1,0 +1,2 @@
+CN：相机的超级特写在镜头中是夕阳，对称构图，最佳品质，摄影，8K，超清，
+EN：Super close-up of the camera with the sunset in the lens, symmetrical composition, best quality, photography, 8K, ultra-clear, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

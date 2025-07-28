@@ -1,0 +1,2 @@
+CN：一位身着翠绿色汉服的林中仙子，手捧着一盏古朴的竹制灯笼，漫步在月光洒落的静谧竹林，中国韵味，动漫美学，宁静自然的氛围，特写肖像，4K画质，电影感，逼真细节，面容柔和，琥珀色的眼睛，萤火虫环绕，绿色风格，虚幻引擎5。
+EN：A forest fairy in an emerald green Hanfu, holding a quaint bamboo lantern, strolling through a tranquil bamboo forest showered in moonlight, Chinese charm, anime aesthetics, serene and natural atmosphere, close-up portrait, 4K quality, cinematic feel, realistic details, gentle face, amber eyes, surrounded by fireflies, green style, Unreal Engine 5, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

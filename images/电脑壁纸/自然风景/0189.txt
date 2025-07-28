@@ -1,0 +1,2 @@
+CN：鲜艳的旅行摄影，的的喀喀湖，由托托拉芦苇制成的金色浮岛漂浮在高原深邃的蓝色湖面上，岛上有独特的芦苇屋和龙形芦苇船，展现了安第斯地区独特的人文景观，阳光明媚，色彩饱和。
+EN：Vibrant travel photography, Lake Titicaca, golden floating islands made of Totora reeds drift on the deep blue high-altitude lake, on the islands are unique reed houses and dragon-shaped reed boats, showcasing the unique cultural landscape of the Andes region, sunny, saturated colors, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

@@ -1,0 +1,2 @@
+CN：抽象之美，日落透过磨砂玻璃的视觉，柔和虚化，暖橙、深邃黑、清浅蓝的色彩交响，自然环境光，高挑构图，营造朦胧氛围，色块强烈对撞，表面肌理感，理念派摄影。
+EN：Abstract beauty, sunset vision through frosted glass, soft blurring, a color symphony of warm orange, deep black, and clear light blue, natural ambient light, tall composition, creating a hazy atmosphere, strong color block clash, tactile surface texture, conceptual photography. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

@@ -1,0 +1,2 @@
+CN：令人惊叹的夜景全景摄影，西江千户苗寨，夜幕下，成千上万的木制吊脚楼灯火通明，从山脚一直延伸到山顶，形成一片壮观的金色光海，画面震撼，长曝光，超广角。
+EN：Stunning night panorama photography, Xijiang Qianhu Miao Village, under the night sky, thousands of wooden stilt houses are brilliantly lit, stretching from the foot to the top of the mountain, forming a spectacular golden sea of light, the scene is breathtaking, long exposure, ultra-wide angle, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

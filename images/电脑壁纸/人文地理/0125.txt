@@ -1,0 +1,2 @@
+CN：电影黑色电影风格，哥伦比亚卡塔赫纳古城，雨后湿漉漉的鹅卵石街道，一盏孤灯照亮狭窄的小巷，殖民地风格的阳台投下深深的阴影，氛围神秘而怀旧，高对比度黑白，电影感。
+EN：Film noir style, Walled City of Cartagena, Colombia, a rain-slicked cobblestone street after a shower, a single lamp illuminates the narrow alley, colonial balconies cast deep shadows, a mysterious and nostalgic atmosphere, high contrast black and white, cinematic, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

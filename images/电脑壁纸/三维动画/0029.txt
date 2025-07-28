@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小女孩，穿着带金丝绣纹的黑色汉服，脸颊微红，头上戴着小巧的龙头样发饰，她坐在桌前，用小手指拨动着算盘珠子，似乎在算账，3D，C4D，高细节，高清，8K，柔和的自然光，一旁是青翠的竹子。
+EN：3d cartoon chibi illustration, a cute little girl, wearing a black hanfu with gold thread embroidery, with slightly red cheeks, wearing a small dragon head-shaped hair accessory, she is sitting at the table, flicking the beads of an abacus with her little finger, seeming to be calculating, 3D, C4D, high detail, HD, 8K, soft natural light, with green bamboo on the side. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲男性，中分微卷发型，轮廓分明的下颚线，穿着黑色丝质衬衫，视线投向画外，陷入沉思，黑色背景，柔和的顶光，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian man with a center-parted slightly curly hairstyle and a well-defined jawline, wearing a black silk shirt, looking out of frame, lost in thought, black background, soft top light, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

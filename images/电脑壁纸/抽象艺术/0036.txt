@@ -1,0 +1,2 @@
+CN：黑色背景上的蓝色和红色的光效相对冲击，左右构图，光效，超高品质，超细节，4K，
+EN：Blue and red light effects on a black background are relatively impactful, left and right composition, light effects, ultra-high quality, ultra-detail, 4K, --q 1 --s 200 --ar 16:9 --v 5.2 

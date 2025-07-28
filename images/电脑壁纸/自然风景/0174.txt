@@ -1,0 +1,2 @@
+CN：史诗级风景摄影，呼伦贝尔大草原，一望无际的绿色草地如地毯般铺开，一条清澈的河流蜿蜒流过，傍晚的金色阳光拉长了云彩的影子，天空广阔而深邃，充满自由与宁静的感觉，超广角。
+EN：Epic landscape photography, Hulunbuir Grasslands, endless green pastures spread out like a carpet, a clear river meanders through, the golden evening sun elongates the shadows of the clouds, the sky is vast and deep, full of a sense of freedom and tranquility, ultra-wide angle, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

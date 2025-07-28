@@ -1,0 +1,2 @@
+CN：微距摄影，植物，黄色小花簇，绿叶，特写，自然光，柔和的背景虚化，高饱和度，高清晰度，8K
+EN：Macro photography, plants, yellow small flower clusters, green leaves, close-up, natural light, soft bokeh, high saturation, high definition, 8K --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

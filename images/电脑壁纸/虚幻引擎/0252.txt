@@ -1,0 +1,2 @@
+CN：东方少女，虚幻引擎5渲染，飘逸雪白长发，柔美五官，饱满红唇，佩戴璀璨耳饰与精致颈链，纯白衬衫，表情宁静沉思，手轻托下颌，室内窗畔，午后阳光，光束散射，电影暖光，极致柔和照明，纤毫毕现，8K。
+EN：Oriental girl, Unreal Engine 5 render, flowing snow-white long hair, delicate features, full red lips, adorned with sparkling earrings and an exquisite necklace, pure white shirt, tranquil contemplative expression, hand gently supporting chin, indoors by the window, afternoon sunlight, scattered light beams, cinematic warm light, exceptionally soft illumination, meticulously detailed, 8K. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

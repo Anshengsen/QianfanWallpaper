@@ -1,0 +1,2 @@
+CN：3D卡通chibi插画，一个可爱的小男孩，穿着青蓝色的汉服，脸庞微红，头上戴着简约的玉石发冠，他正坐在书桌前，聚精会神地阅读一卷竹简，3D，C4D，高细节，高清，8K，柔和的自然光，旁边有一棵小小的盆景。
+EN：3d cartoon chibi illustration, a cute little boy, wearing a cyan-blue hanfu, his face is slightly red, wearing a simple jade hair crown on his head, he is sitting at a desk, concentrating on reading a bamboo scroll, 3D, C4D, high detail, HD, 8K, soft natural light, there is a small bonsai next to him. --q 1 --s 100 --ar 16:9 --niji 6 --personalize vqg1oua

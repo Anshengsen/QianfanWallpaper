@@ -1,0 +1,2 @@
+CN：水景绘画，聚焦特写，素白水莲，深青荷叶，澄澈水波，朦胧光晕，湛蓝基调，垂直框架，原生美感，静默和谐，精细描绘。
+EN：Waterscape painting, focused close-up, plain white water lotus, deep cyan lotus leaves, clear water, hazy light glow, deep blue undertone, vertical framing, primal aesthetic, silent harmony, finely rendered. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6

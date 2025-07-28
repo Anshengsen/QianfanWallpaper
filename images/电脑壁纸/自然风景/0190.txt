@@ -1,0 +1,2 @@
+CN：高空航拍摄影，秘鲁纳斯卡线条，日落时分的金色光线以一个很低的角度照射在干旱的沙漠平原上，使巨大的蜂鸟地画图案的轮廓因阴影而凸显出来，充满了古老、神秘的氛围，上帝视角，极致细节。
+EN：High-altitude aerial photography, Nazca Lines, Peru, the golden light of sunset illuminates the arid desert plain from a very low angle, making the outline of the giant hummingbird geoglyph stand out due to the shadows, full of an ancient and mysterious atmosphere, God's eye view, extreme detail, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

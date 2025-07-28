@@ -1,0 +1,2 @@
+CN：黑白时尚摄影，高对比度风格，一个年轻的亚洲女性，蓬松的黑色长卷发，自然的眼线，穿着黑色针织连衣裙，身体微微后仰，下巴上扬，姿态充满力量，黑色背景，动态模糊的条纹光线，半身像，最佳质量，8k，超细节，皮肤光滑。
+EN：Black and white fashion photography, high contrast style, of a young Asian woman with voluminous long black curly hair and natural eyeliner, wearing a black knit dress, body slightly leaned back, chin up, in a powerful pose, black background, motion-blurred stripes of light, half-length, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture, scantily clad

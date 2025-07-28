@@ -1,0 +1,2 @@
+CN：电影级航拍，贵州梵净山，孤立的岩石山峰顶上坐落着两座寺庙，由一座小桥相连，周围是波涛汹涌的云海，日出的光芒穿透云层，景色超凡脱俗，宛如仙境，史诗感，4K。
+EN：Cinematic aerial shot, Fanjingshan, Guizhou, two temples sit atop an isolated rock peak, connected by a small bridge, surrounded by a turbulent sea of clouds, rays of sunrise pierce through the clouds, the scenery is otherworldly, like a fairyland, epic feel, 4K, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy

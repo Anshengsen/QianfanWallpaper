@@ -1,0 +1,2 @@
+CN：一位身着飘逸紫色汉服的神秘女子，手持一盏精致的星辰琉璃灯，伫立于星河灿烂的夜空之下，中国风，动漫美学，神秘的氛围，肖像特写，高分辨率，电影质感，写实感，皮肤光洁，拥有紫水晶般的瞳孔，星月交辉，紫色调，虚幻引擎5。
+EN：A mysterious woman in a flowing purple Hanfu, holding an exquisite star-shaped glass lantern, standing under a splendid starry night sky, Chinese style, anime aesthetics, mystical atmosphere, portrait close-up, high resolution, cinematic texture, realistic, smooth skin, with amethyst-like pupils, starlight and moonlight, purple tones, Unreal Engine 5, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

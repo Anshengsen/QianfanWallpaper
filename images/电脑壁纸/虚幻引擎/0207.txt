@@ -1,0 +1,2 @@
+CN：一位身着墨色刺绣汉服的神秘女子，手持一盏白骨造型的古灯，站立在血月下的悬崖古塔之顶，中国暗黑风，动漫美学，哥特式神秘氛围，肖像特写，高分辨率，电影质感，逼真，面容冷艳，深红色的眼瞳，哥特夜景，暗红色调，虚幻引擎5。
+EN：A mysterious woman in an ink-black embroidered Hanfu, holding an ancient lamp in the shape of white bones, stands on top of an ancient cliff tower under a blood moon, Chinese dark style, anime aesthetics, gothic and mysterious atmosphere, portrait close-up, high resolution, cinematic texture, realistic, cold and beautiful face, deep red pupils, gothic night scene, dark red tones, Unreal Engine 5, --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71

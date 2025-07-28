@@ -1,0 +1,2 @@
+CN：秋日童话，金色光芒，阳光穿透树林，古老的石桥，溪流，暖色调，梦幻，光线追踪，电影级光照，超广角，高动态范围(HDR)，8K，超高细节，最佳品质
+EN：Autumn fairy tale, golden light, sunlight penetrating the woods, ancient stone bridge, stream, warm tones, dreamy, ray tracing, cinematic lighting, ultra-wide angle, high dynamic range (HDR), 8K, ultra-high detail, best quality --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

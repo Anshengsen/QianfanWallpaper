@@ -1,0 +1,2 @@
+CN：傍晚时分，金色阳光，群山，茂密的森林，平静的湖面，倒影清晰，广角镜头，自然风光摄影，色彩鲜艳，高对比度，细节丰富，8K，超高清。
+EN：In the evening, golden sunlight, mountains, dense forests, calm lake, clear reflections, wide-angle lens, nature photography, bright colors, high contrast, rich details, 8K, ultra high definition. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture

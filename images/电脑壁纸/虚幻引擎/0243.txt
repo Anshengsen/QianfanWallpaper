@@ -1,0 +1,2 @@
+CN：影像捕捉，一位东方女性，冰蓝长发，雅致白色眼覆，娇艳红唇，白色轻盈服饰，纤长体态，精致颈链，温润光线，胶片电影感，时尚人像，腰部以上构图，浅紫罗兰色背景。
+EN：Image capture, an East Asian woman, ice-blue long hair, elegant white eye covering, delicate red lips, light white attire, slender physique, exquisite neck chain, gentle light, film cinematic feel, fashion portrait, waist-up composition, light purple background. --q 5 --s 100 --ar 16:9 --niji 6 --profile v21i75s

@@ -1,0 +1,2 @@
+CN：电影级CG，动漫写实画风，沉浸式游戏女性角色，油画质感，深沉基调，赤色与黯黑色，缠绕着荆棘玫瑰元素，携带一把华丽的谜钥，回眸侧视，戏剧性打光，纤毫毕现，超高分辨率，8K。
+EN：Cinematic CG, anime realistic art style, immersive game female character, oil painting texture, deep tonal palette, fiery red and dark black, entwined with thorny rose elements, carrying an ornate enigmatic key, looking back sideways, dramatic lighting, incredibly detailed, ultra-high resolution, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq

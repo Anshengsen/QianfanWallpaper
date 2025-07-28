@@ -1,0 +1,2 @@
+CN：史诗级风景摄影，罗赖马山，巨大的平顶山像一座失落世界的浮岛，被流动的云海所环绕，日落时分，天空燃烧着橙色和紫色的光芒，山顶上奇特的黑色岩石，充满了神秘和超现实感，超广角镜头。
+EN：Epic landscape photography, Mount Roraima, the massive table-top mountain resembles a lost world's floating island, surrounded by a flowing sea of clouds, at sunset, the sky burns with orange and purple light, peculiar black rocks on the summit, full of mystery and a surreal feeling, ultra-wide angle lens, --q 1 --s 100 --ar 16:9 --v 7 --profile hp5mhqy
