@@ -10,6 +10,7 @@
 }
 body { display: flex; flex-direction: column; min-height: 100vh; margin: 0; padding-top: 65px; background-color: var(--bg-light); color: var(--text-light); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; transition: background-color 0.3s ease, color 0.3s ease; }
 body.dark { background-color: var(--bg-dark); color: var(--text-dark); }
+body.mobile-nav-active { overflow: hidden; }
 main { flex-grow: 1; }
 
 header { position: fixed; top: 0; left: 0; right: 0; z-index: 1000; display: flex; align-items: center; justify-content: space-between; padding: 0 24px; height: 65px; background-color: var(--glass-bg-light); border-bottom: 1px solid var(--border-light); backdrop-filter: blur(14px) saturate(180%); -webkit-backdrop-filter: blur(14px) saturate(180%); transition: background-color 0.3s ease, border-bottom 0.3s ease; }
@@ -46,7 +47,7 @@ body.dark .category-list { background: var(--dropdown-bg-dark); }
 body.dark .category-btn { color: var(--text-dark); }
 .category-btn.active, .category-btn:hover { background-color: var(--accent); color: white !important; }
 
-.header-actions { flex-shrink: 0; }
+.header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 #themeToggle { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: transparent; border: 1px solid var(--border-light); border-radius: 10px; cursor: pointer; color: var(--text-muted-light); transition: all 0.2s ease; }
 body.dark #themeToggle { border-color: var(--border-dark); color: var(--text-muted-dark); }
 #themeToggle:hover { color: var(--accent); border-color: var(--accent); }
@@ -54,6 +55,9 @@ body.dark #themeToggle { border-color: var(--border-dark); color: var(--text-mut
 #themeToggle .moon-icon { display: none; }
 body.dark #themeToggle .sun-icon { display: none; }
 body.dark #themeToggle .moon-icon { display: block; }
+
+.mobile-nav-toggle-btn { display: none; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: transparent; border: 1px solid var(--border-light); border-radius: 10px; cursor: pointer; color: var(--text-light); }
+body.dark .mobile-nav-toggle-btn { border-color: var(--border-dark); color: var(--text-dark); }
 
 main { padding: 20px; max-width: 1800px; margin: 0 auto; width: 100%; box-sizing: border-box; }
 
@@ -65,8 +69,40 @@ body.dark #gallery img { background-color: var(--card-bg-dark); box-shadow: 0 4p
 .gallery-item:hover img { transform: scale(1.02); box-shadow: 0 10px 25px rgba(0,0,0,0.12); }
 body.dark .gallery-item:hover img { box-shadow: 0 10px 25px rgba(0,0,0,0.4); }
 
-@media (max-width: 1024px) { .header-left { gap: 16px; } #mainNav, #productsNav { display: none; } }
-@media (max-width: 600px) { header { padding: 0 16px; } .header-right { gap: 16px; } #searchInput { max-width: 150px; } header h1 { display: none; } }
+#mobileNavOverlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1050; opacity: 0; visibility: hidden; transition: opacity 0.3s ease, visibility 0.3s; }
+#mobileNavOverlay.open { opacity: 1; visibility: visible; }
+#mobileNavContainer { position: fixed; top: 0; left: 0; width: 280px; height: 100%; background-color: var(--bg-light); z-index: 1060; transform: translateX(-100%); transition: transform 0.3s ease-in-out; display: flex; flex-direction: column; }
+body.dark #mobileNavContainer { background-color: var(--card-bg-dark); }
+#mobileNavContainer.open { transform: translateX(0); }
+.mobile-nav-header { display: flex; justify-content: space-between; align-items: center; padding: 0 20px; height: 65px; border-bottom: 1px solid var(--border-light); flex-shrink: 0; }
+body.dark .mobile-nav-header { border-bottom: 1px solid var(--border-dark); }
+.mobile-nav-title { font-size: 1.2rem; font-weight: 600; }
+#mobileNavCloseBtn { font-size: 2.5rem; line-height: 1; border: none; background: transparent; color: var(--text-muted-light); cursor: pointer; padding: 0; }
+body.dark #mobileNavCloseBtn { color: var(--text-muted-dark); }
+#mobileNavContent { overflow-y: auto; padding: 15px 0; }
+#mobileNavContent ul { list-style: none; padding: 0; margin: 0; }
+#mobileNavContent .mobile-nav-group-btn { display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 15px 20px; border: none; background: transparent; text-align: left; font-size: 1rem; font-weight: 500; cursor: pointer; color: var(--text-light); }
+body.dark #mobileNavContent .mobile-nav-group-btn { color: var(--text-dark); }
+#mobileNavContent .mobile-nav-group-btn.active { color: var(--accent); }
+#mobileNavContent .mobile-nav-group-btn::after { content: '›'; font-size: 1.2rem; opacity: 0.6; transition: transform 0.2s ease; }
+#mobileNavContent .mobile-nav-group-btn.expanded::after { transform: rotate(90deg); }
+#mobileNavContent .mobile-category-list { padding-left: 20px; max-height: 0; overflow: hidden; transition: max-height 0.3s ease-in-out; }
+#mobileNavContent .mobile-category-list.expanded { max-height: 500px; }
+#mobileNavContent .mobile-category-btn { display: block; width: 100%; padding: 12px 20px; font-size: 0.95rem; text-align: left; background: transparent; border: none; border-radius: 0; cursor: pointer; color: var(--text-muted-light); }
+body.dark #mobileNavContent .mobile-category-btn { color: var(--text-muted-dark); }
+#mobileNavContent .mobile-category-btn.active { color: var(--accent); font-weight: 600; background-color: rgba(0, 122, 255, 0.1); }
+
+@media (max-width: 1024px) {
+  .header-left { gap: 16px; }
+  #mainNav, #productsNav { display: none; }
+  .mobile-nav-toggle-btn { display: flex; }
+}
+@media (max-width: 600px) {
+  header { padding: 0 16px; }
+  .header-right { gap: 16px; }
+  #searchInput { max-width: 150px; }
+  header h1 { display: none; }
+}
 
 #pagination { margin: 30px 0; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px; }
 #pagination button { min-width: 40px; height: 40px; padding: 0 12px; border: 1px solid var(--border-light); background: transparent; border-radius: 8px; cursor: pointer; color: var(--text-light); font-weight: 500; transition: all 0.2s ease; }

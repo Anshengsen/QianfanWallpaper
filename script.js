@@ -8,6 +8,12 @@ const closeModal = document.getElementById('closeModal');
 const downloadBtn = document.getElementById('downloadBtn');
 const searchInput = document.getElementById('searchInput');
 
+const mobileNavToggle = document.getElementById('mobileNavToggle');
+const mobileNavContainer = document.getElementById('mobileNavContainer');
+const mobileNavCloseBtn = document.getElementById('mobileNavCloseBtn');
+const mobileNavOverlay = document.getElementById('mobileNavOverlay');
+const mobileNavContent = document.getElementById('mobileNavContent');
+
 let currentGroupIndex = 0;
 let currentCategoryIndex = 0;
 let currentPage = 1;
@@ -65,25 +71,120 @@ function renderNavigation() {
   updateNavActiveState();
 }
 
+function renderMobileNavigation() {
+  mobileNavContent.innerHTML = '';
+  const navList = document.createElement('ul');
+
+  galleryData.forEach((group, groupIndex) => {
+    const groupLi = document.createElement('li');
+    const groupButton = document.createElement('button');
+    groupButton.className = 'mobile-nav-group-btn';
+    groupButton.innerHTML = `<span>${group.group}</span>`;
+    groupLi.appendChild(groupButton);
+    
+    if (group.categories && group.categories.length > 0) {
+      const categoryList = document.createElement('ul');
+      categoryList.className = 'mobile-category-list';
+      
+      group.categories.forEach((category, categoryIndex) => {
+        const categoryLi = document.createElement('li');
+        const categoryButton = document.createElement('button');
+        categoryButton.textContent = category.name;
+        categoryButton.className = 'mobile-category-btn';
+        
+        categoryButton.onclick = () => {
+          currentGroupIndex = groupIndex;
+          currentCategoryIndex = categoryIndex;
+          currentPage = 1;
+          resetSearch();
+          renderAll();
+          closeMobileNav();
+        };
+        categoryLi.appendChild(categoryButton);
+        categoryList.appendChild(categoryLi);
+      });
+      
+      groupLi.appendChild(categoryList);
+
+      groupButton.onclick = () => {
+        groupButton.classList.toggle('expanded');
+        categoryList.classList.toggle('expanded');
+      };
+    }
+    navList.appendChild(groupLi);
+  });
+
+  const productsGroupLi = document.createElement('li');
+  const productsButton = document.createElement('button');
+  productsButton.className = 'mobile-nav-group-btn';
+  productsButton.innerHTML = `<span>其他网站</span>`;
+  productsGroupLi.appendChild(productsButton);
+
+  const productList = document.createElement('ul');
+  productList.className = 'mobile-category-list';
+  const products = [
+      { name: '千帆壁纸', url: 'https://qianfanwallpaper.cn', active: true },
+      { name: '千帆书签', url: 'https://qianfannav.cn' },
+      { name: '千帆色卡', url: 'https://qianfancolor.cn' },
+      { name: '千帆拾色', url: 'https://qianfanpicker.cn' },
+  ];
+  products.forEach(product => {
+      const productLi = document.createElement('li');
+      const productLink = document.createElement('a');
+      productLink.textContent = product.name;
+      productLink.href = product.url;
+      productLink.className = 'mobile-category-btn';
+      if (!product.active) {
+          productLink.target = '_blank';
+          productLink.rel = 'noopener noreferrer';
+      }
+      if (product.active) {
+          productLink.classList.add('active');
+          productLink.onclick = (e) => { e.preventDefault(); closeMobileNav(); };
+      }
+      productLi.appendChild(productLink);
+      productList.appendChild(productLi);
+  });
+  productsGroupLi.appendChild(productList);
+  productsButton.onclick = () => {
+    productsButton.classList.toggle('expanded');
+    productList.classList.toggle('expanded');
+  };
+  navList.appendChild(productsGroupLi);
+
+  mobileNavContent.appendChild(navList);
+  updateMobileNavActiveState();
+}
+
+function updateMobileNavActiveState() {
+  document.querySelectorAll('#mobileNavContent .mobile-nav-group-btn, #mobileNavContent .mobile-category-btn').forEach(btn => btn.classList.remove('active'));
+  
+  if (searchQuery) return;
+
+  const groupBtn = mobileNavContent.querySelectorAll('.mobile-nav-group-btn')[currentGroupIndex];
+  if(groupBtn) groupBtn.classList.add('active');
+
+  const categoryList = mobileNavContent.querySelectorAll('.mobile-category-list')[currentGroupIndex];
+  if(categoryList){
+      const categoryBtn = categoryList.querySelectorAll('.mobile-category-btn')[currentCategoryIndex];
+      if(categoryBtn) categoryBtn.classList.add('active');
+  }
+}
+
 function updateNavActiveState() {
   document.querySelectorAll('#mainNav .group-btn, #mainNav .category-btn').forEach(btn => btn.classList.remove('active'));
   
-  if (searchQuery) {
-    return;
-  }
+  if (searchQuery) return;
 
   const groupBtn = mainNav.children[currentGroupIndex]?.querySelector('.group-btn');
-  if (groupBtn) {
-    groupBtn.classList.add('active');
-  }
+  if (groupBtn) groupBtn.classList.add('active');
 
   const categoryList = mainNav.children[currentGroupIndex]?.querySelector('.category-list');
   if (categoryList) {
     const categoryBtn = categoryList.children[currentCategoryIndex]?.querySelector('.category-btn');
-    if (categoryBtn) {
-      categoryBtn.classList.add('active');
-    }
+    if (categoryBtn) categoryBtn.classList.add('active');
   }
+  updateMobileNavActiveState();
 }
 
 function getFilteredImages() {
@@ -257,8 +358,21 @@ function toggleTheme() {
   localStorage.setItem('theme', newTheme);
 }
 
+function openMobileNav() {
+    mobileNavContainer.classList.add('open');
+    mobileNavOverlay.classList.add('open');
+    document.body.classList.add('mobile-nav-active');
+}
+
+function closeMobileNav() {
+    mobileNavContainer.classList.remove('open');
+    mobileNavOverlay.classList.remove('open');
+    document.body.classList.remove('mobile-nav-active');
+}
+
 function renderAll() {
   renderNavigation();
+  renderMobileNavigation();
   renderGallery();
   renderPagination();
 }
@@ -295,6 +409,10 @@ function init() {
           closeModalFunc();
       }
   });
+
+  mobileNavToggle.addEventListener('click', openMobileNav);
+  mobileNavCloseBtn.addEventListener('click', closeMobileNav);
+  mobileNavOverlay.addEventListener('click', closeMobileNav);
 }
 
 document.addEventListener('DOMContentLoaded', init);
