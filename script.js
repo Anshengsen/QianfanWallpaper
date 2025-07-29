@@ -113,44 +113,45 @@ function renderMobileNavigation() {
     }
     navList.appendChild(groupLi);
   });
-
-  const productsGroupLi = document.createElement('li');
-  const productsButton = document.createElement('button');
-  productsButton.className = 'mobile-nav-group-btn';
-  productsButton.innerHTML = `<span>其他网站</span>`;
-  productsGroupLi.appendChild(productsButton);
-
-  const productList = document.createElement('ul');
-  productList.className = 'mobile-category-list';
-  const products = [
-      { name: '千帆壁纸', url: 'https://qianfanwallpaper.cn', active: true },
-      { name: '千帆书签', url: 'https://qianfannav.cn' },
-      { name: '千帆色卡', url: 'https://qianfancolor.cn' },
-      { name: '千帆拾色', url: 'https://qianfanpicker.cn' },
-  ];
-  products.forEach(product => {
-      const productLi = document.createElement('li');
-      const productLink = document.createElement('a');
-      productLink.textContent = product.name;
-      productLink.href = product.url;
-      productLink.className = 'mobile-category-btn';
-      if (!product.active) {
-          productLink.target = '_blank';
-          productLink.rel = 'noopener noreferrer';
+  
+  const productsNavSource = document.getElementById('productsNav');
+  if (productsNavSource) {
+    const mobileProductsNav = productsNavSource.cloneNode(true);
+    mobileProductsNav.removeAttribute('id');
+    
+    mobileProductsNav.querySelectorAll('.nav-group').forEach(group => {
+      const groupButton = group.querySelector('.group-btn');
+      const categoryList = group.querySelector('.category-list');
+      
+      if (groupButton && categoryList) {
+        const mobileGroupLi = document.createElement('li');
+        const mobileGroupBtn = document.createElement('button');
+        mobileGroupBtn.className = 'mobile-nav-group-btn';
+        mobileGroupBtn.innerHTML = groupButton.innerHTML;
+        mobileGroupLi.appendChild(mobileGroupBtn);
+        
+        const mobileCategoryList = document.createElement('ul');
+        mobileCategoryList.className = 'mobile-category-list';
+        
+        categoryList.querySelectorAll('li a').forEach(link => {
+          const mobileLinkLi = document.createElement('li');
+          const mobileLink = link.cloneNode(true);
+          mobileLink.className = 'mobile-category-btn';
+          mobileLink.onclick = () => closeMobileNav();
+          mobileLinkLi.appendChild(mobileLink);
+          mobileCategoryList.appendChild(mobileLinkLi);
+        });
+        
+        mobileGroupLi.appendChild(mobileCategoryList);
+        mobileGroupBtn.onclick = () => {
+          mobileGroupBtn.classList.toggle('expanded');
+          mobileCategoryList.classList.toggle('expanded');
+        };
+        
+        navList.appendChild(mobileGroupLi);
       }
-      if (product.active) {
-          productLink.classList.add('active');
-          productLink.onclick = (e) => { e.preventDefault(); closeMobileNav(); };
-      }
-      productLi.appendChild(productLink);
-      productList.appendChild(productLi);
-  });
-  productsGroupLi.appendChild(productList);
-  productsButton.onclick = () => {
-    productsButton.classList.toggle('expanded');
-    productList.classList.toggle('expanded');
-  };
-  navList.appendChild(productsGroupLi);
+    });
+  }
 
   mobileNavContent.appendChild(navList);
   updateMobileNavActiveState();
@@ -166,7 +167,7 @@ function updateMobileNavActiveState() {
 
   const categoryList = mobileNavContent.querySelectorAll('.mobile-category-list')[currentGroupIndex];
   if(categoryList){
-      const categoryBtn = categoryList.querySelectorAll('.mobile-category-btn')[currentCategoryIndex];
+      const categoryBtn = categoryList.querySelectorAll('.mobile-category-btn, a.mobile-category-btn')[currentCategoryIndex];
       if(categoryBtn) categoryBtn.classList.add('active');
   }
 }
